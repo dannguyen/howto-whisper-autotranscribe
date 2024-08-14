@@ -1,0 +1,7553 @@
+{
+    "speakers": [
+      {
+        "speaker": "SPEAKER_01",
+        "text": " Never,",
+        "timestamp": [
+          0,
+          0.66
+        ]
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": " just",
+        "timestamp": [
+          0.66,
+          1.38
+        ]
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": " like",
+        "timestamp": [
+          1.38,
+          1.7
+        ]
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": " Israel,",
+        "timestamp": [
+          1.7,
+          2.46
+        ]
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": " would",
+        "timestamp": [
+          2.46,
+          2.58
+        ]
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": " have",
+        "timestamp": [
+          2.58,
+          2.7
+        ]
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": " never",
+        "timestamp": [
+          2.7,
+          3.04
+        ]
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": " been",
+        "timestamp": [
+          3.04,
+          3.48
+        ]
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": " invaded",
+        "timestamp": [
+          3.48,
+          3.98
+        ]
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": " in",
+        "timestamp": [
+          3.98,
+          5.18
+        ]
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": " a",
+        "timestamp": [
+          5.18,
+          5.32
+        ]
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": " million",
+        "timestamp": [
+          5.32,
+          5.68
+        ]
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": " years",
+        "timestamp": [
+          5.68,
+          6.02
+        ]
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": " by",
+        "timestamp": [
+          6.02,
+          6.28
+        ]
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": " Hamas.",
+        "timestamp": [
+          6.28,
+          6.78
+        ]
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": " You",
+        "timestamp": [
+          7.46,
+          7.54
+        ]
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": " know",
+        "timestamp": [
+          7.54,
+          7.62
+        ]
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": " why?",
+        "timestamp": [
+          7.62,
+          8.02
+        ]
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": " Because",
+        "timestamp": [
+          8.46,
+          8.7
+        ]
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": " Iran",
+        "timestamp": [
+          8.7,
+          9.12
+        ]
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": " was",
+        "timestamp": [
+          9.12,
+          9.42
+        ]
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": " broke",
+        "timestamp": [
+          9.42,
+          9.72
+        ]
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": " with",
+        "timestamp": [
+          9.72,
+          10.12
+        ]
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": " me.",
+        "timestamp": [
+          10.12,
+          10.46
+        ]
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": " I",
+        "timestamp": [
+          10.64,
+          10.7
+        ]
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": " wouldn't",
+        "timestamp": [
+          10.7,
+          10.96
+        ]
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": " let",
+        "timestamp": [
+          10.96,
+          11.06
+        ]
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": " anybody",
+        "timestamp": [
+          11.06,
+          11.34
+        ]
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": " do",
+        "timestamp": [
+          11.34,
+          11.68
+        ]
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": " business",
+        "timestamp": [
+          11.68,
+          12.02
+        ]
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": " with",
+        "timestamp": [
+          12.02,
+          12.34
+        ]
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": " them.",
+        "timestamp": [
+          12.34,
+          12.52
+        ]
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": " They",
+        "timestamp": [
+          12.6,
+          12.64
+        ]
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": " ran",
+        "timestamp": [
+          12.64,
+          12.84
+        ]
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": " out",
+        "timestamp": [
+          12.84,
+          13.1
+        ]
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": " of",
+        "timestamp": [
+          13.1,
+          13.24
+        ]
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": " money.",
+        "timestamp": [
+          13.24,
+          13.54
+        ]
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": " They",
+        "timestamp": [
+          13.62,
+          13.62
+        ]
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": " were",
+        "timestamp": [
+          13.62,
+          13.74
+        ]
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": " broke.",
+        "timestamp": [
+          13.74,
+          14.14
+        ]
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": " They",
+        "timestamp": [
+          14.2,
+          14.22
+        ]
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": " had",
+        "timestamp": [
+          14.22,
+          14.28
+        ]
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": " no",
+        "timestamp": [
+          14.28,
+          14.44
+        ]
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": " money",
+        "timestamp": [
+          14.44,
+          14.64
+        ]
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": " for",
+        "timestamp": [
+          14.64,
+          14.84
+        ]
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": " Hamas.",
+        "timestamp": [
+          14.84,
+          15.4
+        ]
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": " They",
+        "timestamp": [
+          15.6,
+          15.74
+        ]
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": " had",
+        "timestamp": [
+          15.74,
+          15.9
+        ]
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": " no",
+        "timestamp": [
+          15.9,
+          16.08
+        ]
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": " money",
+        "timestamp": [
+          16.08,
+          16.3
+        ]
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": " for",
+        "timestamp": [
+          16.3,
+          16.52
+        ]
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": " anything.",
+        "timestamp": [
+          16.52,
+          17.1
+        ]
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": " No",
+        "timestamp": [
+          17.3,
+          17.44
+        ]
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": " money",
+        "timestamp": [
+          17.44,
+          17.66
+        ]
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": " for",
+        "timestamp": [
+          17.66,
+          17.84
+        ]
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": " terror.",
+        "timestamp": [
+          17.84,
+          18.2
+        ]
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": " That's",
+        "timestamp": [
+          18.34,
+          18.58
+        ]
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": " why",
+        "timestamp": [
+          18.58,
+          18.7
+        ]
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": " you",
+        "timestamp": [
+          18.7,
+          18.86
+        ]
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": " had",
+        "timestamp": [
+          18.86,
+          19
+        ]
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": " no",
+        "timestamp": [
+          19,
+          19.2
+        ]
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": " terror",
+        "timestamp": [
+          19.2,
+          19.48
+        ]
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": " at",
+        "timestamp": [
+          19.48,
+          19.82
+        ]
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": " all",
+        "timestamp": [
+          19.82,
+          20.1
+        ]
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": " during",
+        "timestamp": [
+          20.1,
+          20.8
+        ]
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": " my",
+        "timestamp": [
+          20.8,
+          21.06
+        ]
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": " administration.",
+        "timestamp": [
+          21.06,
+          21.92
+        ]
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": " This",
+        "timestamp": [
+          22.32,
+          22.54
+        ]
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": " place,",
+        "timestamp": [
+          22.54,
+          22.96
+        ]
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": " the",
+        "timestamp": [
+          22.96,
+          23.08
+        ]
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": " whole",
+        "timestamp": [
+          23.08,
+          23.24
+        ]
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": " world",
+        "timestamp": [
+          23.24,
+          23.58
+        ]
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": " is",
+        "timestamp": [
+          23.58,
+          23.76
+        ]
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": " blowing",
+        "timestamp": [
+          23.76,
+          24.02
+        ]
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": " up",
+        "timestamp": [
+          24.02,
+          24.32
+        ]
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": " under",
+        "timestamp": [
+          24.32,
+          24.58
+        ]
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": " him.",
+        "timestamp": [
+          24.58,
+          25
+        ]
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": " President",
+        "timestamp": [
+          26.16,
+          26.66
+        ]
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": " Biden.",
+        "timestamp": [
+          26.66,
+          27.16
+        ]
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": " I've",
+        "timestamp": [
+          27.16,
+          28.12
+        ]
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": " never",
+        "timestamp": [
+          28.12,
+          28.3
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " heard",
+        "timestamp": [
+          28.3,
+          28.48
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " so",
+        "timestamp": [
+          28.48,
+          28.6
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " much",
+        "timestamp": [
+          28.6,
+          28.8
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " malarkey",
+        "timestamp": [
+          28.8,
+          29.22
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " in",
+        "timestamp": [
+          29.22,
+          29.36
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " my",
+        "timestamp": [
+          29.36,
+          29.44
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " whole",
+        "timestamp": [
+          29.44,
+          29.6
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " life.",
+        "timestamp": [
+          29.6,
+          29.96
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " Look,",
+        "timestamp": [
+          29.96,
+          30.18
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " the",
+        "timestamp": [
+          30.18,
+          30.32
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " fact",
+        "timestamp": [
+          30.32,
+          30.52
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " of",
+        "timestamp": [
+          30.52,
+          30.66
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " the",
+        "timestamp": [
+          30.66,
+          30.72
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " matter",
+        "timestamp": [
+          30.72,
+          30.94
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " is",
+        "timestamp": [
+          30.94,
+          31.16
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " that",
+        "timestamp": [
+          31.26,
+          31.38
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " we're",
+        "timestamp": [
+          31.38,
+          31.66
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " in",
+        "timestamp": [
+          31.66,
+          31.72
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " a",
+        "timestamp": [
+          31.72,
+          31.8
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " situation",
+        "timestamp": [
+          31.8,
+          32.18
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " where,",
+        "timestamp": [
+          32.18,
+          32.48
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " let's",
+        "timestamp": [
+          32.48,
+          32.6
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " take",
+        "timestamp": [
+          32.6,
+          32.74
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " the",
+        "timestamp": [
+          32.74,
+          32.88
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " last",
+        "timestamp": [
+          32.88,
+          33.06
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " point",
+        "timestamp": [
+          33.06,
+          33.3
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " first.",
+        "timestamp": [
+          33.3,
+          33.9
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " Iran",
+        "timestamp": [
+          33.9,
+          34.66
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " attacked",
+        "timestamp": [
+          34.66,
+          35.46
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " American",
+        "timestamp": [
+          35.46,
+          35.82
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " troops,",
+        "timestamp": [
+          35.82,
+          36.62
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " caused",
+        "timestamp": [
+          37.18,
+          37.48
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " brain",
+        "timestamp": [
+          37.48,
+          38.82
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " damage",
+        "timestamp": [
+          38.82,
+          39.28
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " for",
+        "timestamp": [
+          39.28,
+          39.82
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " a",
+        "timestamp": [
+          39.82,
+          40
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " number",
+        "timestamp": [
+          40,
+          40.28
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " of",
+        "timestamp": [
+          40.28,
+          40.4
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " these",
+        "timestamp": [
+          40.4,
+          40.52
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " troops,",
+        "timestamp": [
+          40.52,
+          40.98
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " and",
+        "timestamp": [
+          40.98,
+          41.48
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " he",
+        "timestamp": [
+          41.48,
+          41.64
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " did",
+        "timestamp": [
+          41.64,
+          41.84
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " nothing",
+        "timestamp": [
+          41.84,
+          42.06
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " about",
+        "timestamp": [
+          42.06,
+          42.38
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " it.",
+        "timestamp": [
+          42.38,
+          42.64
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " Recently,",
+        "timestamp": [
+          42.64,
+          42.98
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " when",
+        "timestamp": [
+          43.24,
+          43.28
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " he",
+        "timestamp": [
+          43.28,
+          43.44
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " was",
+        "timestamp": [
+          43.44,
+          43.58
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " president,",
+        "timestamp": [
+          43.58,
+          44.06
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " they",
+        "timestamp": [
+          44.06,
+          44.52
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " attacked.",
+        "timestamp": [
+          44.52,
+          45.34
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " He",
+        "timestamp": [
+          45.34,
+          45.64
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " said",
+        "timestamp": [
+          45.64,
+          45.98
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " they're",
+        "timestamp": [
+          45.98,
+          46.28
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " just",
+        "timestamp": [
+          46.28,
+          46.42
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " having",
+        "timestamp": [
+          46.42,
+          46.62
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " headaches.",
+        "timestamp": [
+          46.62,
+          47.2
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " That's",
+        "timestamp": [
+          47.2,
+          47.42
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " all",
+        "timestamp": [
+          47.42,
+          47.58
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " it",
+        "timestamp": [
+          47.58,
+          47.72
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " is.",
+        "timestamp": [
+          47.72,
+          48.04
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " a",
+        "timestamp": [
+          40,
+          40.04
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " number",
+        "timestamp": [
+          40.04,
+          40.28
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " of",
+        "timestamp": [
+          40.28,
+          40.38
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " these",
+        "timestamp": [
+          40.38,
+          40.54
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " troops,",
+        "timestamp": [
+          40.54,
+          40.98
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " and",
+        "timestamp": [
+          40.98,
+          41.48
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " he",
+        "timestamp": [
+          41.48,
+          41.62
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " did",
+        "timestamp": [
+          41.62,
+          41.84
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " nothing",
+        "timestamp": [
+          41.84,
+          42.06
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " about",
+        "timestamp": [
+          42.06,
+          42.34
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " it",
+        "timestamp": [
+          42.34,
+          42.6
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " when",
+        "timestamp": [
+          42.6,
+          42.96
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " he",
+        "timestamp": [
+          42.96,
+          43.44
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " was",
+        "timestamp": [
+          43.44,
+          43.56
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " president.",
+        "timestamp": [
+          43.56,
+          44.04
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " They",
+        "timestamp": [
+          44.04,
+          44.52
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " attacked.",
+        "timestamp": [
+          44.52,
+          45.32
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " He",
+        "timestamp": [
+          45.54,
+          45.64
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " said",
+        "timestamp": [
+          45.64,
+          45.98
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " they're",
+        "timestamp": [
+          45.98,
+          46.28
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " just",
+        "timestamp": [
+          46.28,
+          46.42
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " having",
+        "timestamp": [
+          46.42,
+          46.62
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " headaches.",
+        "timestamp": [
+          46.62,
+          47.22
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " That's",
+        "timestamp": [
+          47.22,
+          47.42
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " all",
+        "timestamp": [
+          47.42,
+          47.56
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " it",
+        "timestamp": [
+          47.56,
+          47.72
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " is.",
+        "timestamp": [
+          47.72,
+          48.08
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " He",
+        "timestamp": [
+          48.08,
+          48.54
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " didn't",
+        "timestamp": [
+          48.54,
+          48.9
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " do",
+        "timestamp": [
+          48.9,
+          49.04
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " a",
+        "timestamp": [
+          49.04,
+          49.12
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " thing",
+        "timestamp": [
+          49.12,
+          49.42
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " when",
+        "timestamp": [
+          49.42,
+          50.02
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " the",
+        "timestamp": [
+          50.02,
+          50.14
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " attack",
+        "timestamp": [
+          50.14,
+          50.28
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " took",
+        "timestamp": [
+          50.46,
+          50.56
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " place,",
+        "timestamp": [
+          50.56,
+          50.98
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " number",
+        "timestamp": [
+          50.98,
+          51.14
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " one.",
+        "timestamp": [
+          51.14,
+          51.52
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " Number",
+        "timestamp": [
+          51.52,
+          52.16
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " two,",
+        "timestamp": [
+          52.16,
+          52.62
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " we",
+        "timestamp": [
+          52.62,
+          53.24
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " got",
+        "timestamp": [
+          53.24,
+          53.4
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " over",
+        "timestamp": [
+          53.4,
+          53.7
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " 100",
+        "timestamp": [
+          53.7,
+          54.02
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": ",000",
+        "timestamp": [
+          54.02,
+          54.7
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " Americans",
+        "timestamp": [
+          54.7,
+          55.22
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " and",
+        "timestamp": [
+          55.22,
+          55.68
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " others",
+        "timestamp": [
+          55.68,
+          56.06
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " out",
+        "timestamp": [
+          56.06,
+          56.46
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " of",
+        "timestamp": [
+          56.46,
+          57.16
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " Afghanistan",
+        "timestamp": [
+          57.16,
+          58.1
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " during",
+        "timestamp": [
+          58.42,
+          59.16
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " that",
+        "timestamp": [
+          59.16,
+          59.38
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " airlift.",
+        "timestamp": [
+          59.38,
+          59.98
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " Number",
+        "timestamp": [
+          59.98,
+          60.46
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " three,",
+        "timestamp": [
+          60.46,
+          61.06
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " we",
+        "timestamp": [
+          61.06,
+          61.36
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " found",
+        "timestamp": [
+          61.36,
+          61.64
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " ourselves",
+        "timestamp": [
+          61.64,
+          61.86
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " in",
+        "timestamp": [
+          61.86,
+          62.1
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " a",
+        "timestamp": [
+          62.1,
+          62.18
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " situation",
+        "timestamp": [
+          62.18,
+          62.5
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " where",
+        "timestamp": [
+          62.5,
+          63
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " if",
+        "timestamp": [
+          63,
+          63.66
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " you",
+        "timestamp": [
+          63.66,
+          63.78
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " take",
+        "timestamp": [
+          63.78,
+          63.98
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " a",
+        "timestamp": [
+          63.98,
+          64.1
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " look",
+        "timestamp": [
+          64.1,
+          64.28
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " at",
+        "timestamp": [
+          64.28,
+          64.4
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " what",
+        "timestamp": [
+          64.4,
+          64.58
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " Trump",
+        "timestamp": [
+          64.58,
+          65.04
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " did",
+        "timestamp": [
+          65.04,
+          65.28
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " in",
+        "timestamp": [
+          65.28,
+          65.44
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " Ukraine,",
+        "timestamp": [
+          65.44,
+          66.04
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " this",
+        "timestamp": [
+          66.04,
+          66.96
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " guy",
+        "timestamp": [
+          66.96,
+          67.6
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " told",
+        "timestamp": [
+          67.6,
+          67.86
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " Trump,",
+        "timestamp": [
+          67.86,
+          69.28
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " do",
+        "timestamp": [
+          69.28,
+          69.62
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " whatever",
+        "timestamp": [
+          69.62,
+          69.9
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " you",
+        "timestamp": [
+          69.9,
+          70.24
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " want",
+        "timestamp": [
+          70.24,
+          70.6
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " and",
+        "timestamp": [
+          70.6,
+          71.12
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " do",
+        "timestamp": [
+          71.12,
+          71.36
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " whatever",
+        "timestamp": [
+          71.36,
+          71.62
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " you",
+        "timestamp": [
+          71.62,
+          72
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " want.",
+        "timestamp": [
+          72,
+          72.42
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " And",
+        "timestamp": [
+          72.96,
+          72.98
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " that's",
+        "timestamp": [
+          72.98,
+          73.34
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " exactly",
+        "timestamp": [
+          73.34,
+          73.58
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " what",
+        "timestamp": [
+          73.58,
+          73.9
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " Trump",
+        "timestamp": [
+          73.9,
+          74.16
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " did",
+        "timestamp": [
+          74.16,
+          74.46
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " to",
+        "timestamp": [
+          74.46,
+          75.54
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " Putin,",
+        "timestamp": [
+          75.54,
+          76.1
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " encourage",
+        "timestamp": [
+          76.1,
+          76.42
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " him,",
+        "timestamp": [
+          76.42,
+          76.74
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " do",
+        "timestamp": [
+          76.74,
+          76.9
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " whatever",
+        "timestamp": [
+          76.9,
+          77.16
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " you",
+        "timestamp": [
+          77.16,
+          77.4
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " want.",
+        "timestamp": [
+          77.4,
+          77.74
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " And",
+        "timestamp": [
+          78.08,
+          78.08
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " he",
+        "timestamp": [
+          78.08,
+          78.2
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " went",
+        "timestamp": [
+          78.2,
+          78.36
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " in",
+        "timestamp": [
+          78.36,
+          78.54
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " and",
+        "timestamp": [
+          78.54,
+          78.68
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " listen",
+        "timestamp": [
+          78.68,
+          78.9
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " to",
+        "timestamp": [
+          78.9,
+          79.06
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " what",
+        "timestamp": [
+          79.06,
+          79.16
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " he",
+        "timestamp": [
+          79.16,
+          79.28
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " said",
+        "timestamp": [
+          79.28,
+          79.48
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " when",
+        "timestamp": [
+          79.48,
+          79.66
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " he",
+        "timestamp": [
+          79.66,
+          79.76
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " went",
+        "timestamp": [
+          79.76,
+          79.86
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " in.",
+        "timestamp": [
+          79.86,
+          80.08
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " He",
+        "timestamp": [
+          80.44,
+          80.46
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " was",
+        "timestamp": [
+          80.46,
+          80.6
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " going",
+        "timestamp": [
+          80.6,
+          80.7
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " to",
+        "timestamp": [
+          80.7,
+          80.82
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " take",
+        "timestamp": [
+          80.82,
+          81.04
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " Kiev",
+        "timestamp": [
+          81.04,
+          81.32
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " in",
+        "timestamp": [
+          81.32,
+          81.48
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " five",
+        "timestamp": [
+          81.48,
+          81.68
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " days,",
+        "timestamp": [
+          81.68,
+          82.16
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " remember,",
+        "timestamp": [
+          82.16,
+          82.62
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " because",
+        "timestamp": [
+          82.62,
+          83
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " it's",
+        "timestamp": [
+          83,
+          83.22
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " part",
+        "timestamp": [
+          83.22,
+          83.38
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " of",
+        "timestamp": [
+          83.38,
+          83.54
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " the",
+        "timestamp": [
+          83.54,
+          83.58
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " old",
+        "timestamp": [
+          83.58,
+          83.72
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " Soviet",
+        "timestamp": [
+          83.72,
+          84.06
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " Union.",
+        "timestamp": [
+          84.06,
+          84.56
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " That's",
+        "timestamp": [
+          84.8,
+          85
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " what",
+        "timestamp": [
+          85,
+          85.06
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " he",
+        "timestamp": [
+          85.06,
+          85.18
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " wanted",
+        "timestamp": [
+          85.18,
+          85.42
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " to",
+        "timestamp": [
+          85.42,
+          85.58
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " reestablish,",
+        "timestamp": [
+          85.58,
+          86.36
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " Kiev.",
+        "timestamp": [
+          86.36,
+          87.2
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " And",
+        "timestamp": [
+          87.52,
+          87.7
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " he,",
+        "timestamp": [
+          87.7,
+          87.96
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " in",
+        "timestamp": [
+          87.96,
+          88.08
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " fact,",
+        "timestamp": [
+          88.08,
+          88.34
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " didn't",
+        "timestamp": [
+          88.34,
+          88.72
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " do",
+        "timestamp": [
+          88.72,
+          88.86
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " it",
+        "timestamp": [
+          88.86,
+          88.96
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " at",
+        "timestamp": [
+          88.96,
+          89.08
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " all.",
+        "timestamp": [
+          89.08,
+          89.38
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " He",
+        "timestamp": [
+          89.44,
+          89.46
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " wasn't",
+        "timestamp": [
+          89.46,
+          89.98
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " able",
+        "timestamp": [
+          89.98,
+          90.16
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " to",
+        "timestamp": [
+          90.16,
+          90.3
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " get",
+        "timestamp": [
+          90.3,
+          90.46
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " it",
+        "timestamp": [
+          90.46,
+          90.58
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " done.",
+        "timestamp": [
+          90.58,
+          90.92
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " And",
+        "timestamp": [
+          91.32,
+          91.38
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " they've",
+        "timestamp": [
+          91.38,
+          91.64
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " lost",
+        "timestamp": [
+          91.64,
+          91.94
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " thousands",
+        "timestamp": [
+          91.94,
+          92.46
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " and",
+        "timestamp": [
+          92.46,
+          93.86
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " thousands",
+        "timestamp": [
+          93.86,
+          94.2
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " of",
+        "timestamp": [
+          94.2,
+          94.38
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " troops,",
+        "timestamp": [
+          94.38,
+          94.94
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " 500",
+        "timestamp": [
+          94.94,
+          95.4
+        ]
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": ",000",
+        "timestamp": [
+          95.4,
+          95.88
+        ]
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": " troops.",
+        "timestamp": [
+          95.88,
+          96.72
+        ]
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": " President",
+        "timestamp": [
+          96.72,
+          97.3
+        ]
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": " Trump,",
+        "timestamp": [
+          97.3,
+          97.76
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " let",
+        "timestamp": [
+          97.76,
+          97.86
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " me",
+        "timestamp": [
+          97.86,
+          97.96
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " come",
+        "timestamp": [
+          97.96,
+          98.12
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " back",
+        "timestamp": [
+          98.12,
+          98.3
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " to",
+        "timestamp": [
+          98.3,
+          98.32
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " you",
+        "timestamp": [
+          98.32,
+          98.6
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " for",
+        "timestamp": [
+          98.6,
+          98.8
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " one",
+        "timestamp": [
+          98.8,
+          99.24
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " minute.",
+        "timestamp": [
+          99.24,
+          99.56
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " I",
+        "timestamp": [
+          99.64,
+          99.7
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " just",
+        "timestamp": [
+          99.7,
+          99.72
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " want",
+        "timestamp": [
+          99.72,
+          99.96
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " to",
+        "timestamp": [
+          99.96,
+          100.1
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " go",
+        "timestamp": [
+          100.1,
+          100.34
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " back",
+        "timestamp": [
+          100.34,
+          100.56
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " to",
+        "timestamp": [
+          100.56,
+          100.7
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " my",
+        "timestamp": [
+          100.7,
+          100.84
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " original",
+        "timestamp": [
+          100.84,
+          101.16
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " question,",
+        "timestamp": [
+          101.16,
+          101.8
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " which",
+        "timestamp": [
+          101.8,
+          101.98
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " is,",
+        "timestamp": [
+          101.98,
+          102.3
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " are",
+        "timestamp": [
+          102.3,
+          102.64
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " Putin's",
+        "timestamp": [
+          102.64,
+          103.22
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " terms",
+        "timestamp": [
+          103.22,
+          103.76
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " acceptable",
+        "timestamp": [
+          103.76,
+          104.38
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " to",
+        "timestamp": [
+          104.38,
+          104.88
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " you,",
+        "timestamp": [
+          104.88,
+          105.22
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " keeping",
+        "timestamp": [
+          105.22,
+          105.56
+        ]
+      },
+      {
+        "speaker": "SPEAKER_02",
+        "text": " the",
+        "timestamp": [
+          105.56,
+          105.76
+        ]
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": " territory",
+        "timestamp": [
+          105.76,
+          106.1
+        ]
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": " in",
+        "timestamp": [
+          106.1,
+          106.38
+        ]
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": " Ukraine?",
+        "timestamp": [
+          106.38,
+          106.9
+        ]
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": " No,",
+        "timestamp": [
+          107.02,
+          107.36
+        ]
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": " they're",
+        "timestamp": [
+          107.36,
+          107.54
+        ]
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": " not",
+        "timestamp": [
+          107.54,
+          107.62
+        ]
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": " acceptable.",
+        "timestamp": [
+          107.62,
+          108.2
+        ]
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": " But",
+        "timestamp": [
+          109.12,
+          109.28
+        ]
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": " look,",
+        "timestamp": [
+          109.28,
+          109.7
+        ]
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": " this",
+        "timestamp": [
+          109.7,
+          110.06
+        ]
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": " is",
+        "timestamp": [
+          110.06,
+          110.24
+        ]
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": " a",
+        "timestamp": [
+          110.24,
+          110.38
+        ]
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": " war",
+        "timestamp": [
+          110.38,
+          110.56
+        ]
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": " that",
+        "timestamp": [
+          110.56,
+          110.76
+        ]
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": " never",
+        "timestamp": [
+          110.76,
+          110.92
+        ]
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": " should",
+        "timestamp": [
+          110.92,
+          111.16
+        ]
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": " have",
+        "timestamp": [
+          111.16,
+          111.3
+        ]
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": " started.",
+        "timestamp": [
+          111.3,
+          111.7
+        ]
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": " If",
+        "timestamp": [
+          111.7,
+          112.02
+        ]
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": " we",
+        "timestamp": [
+          112.02,
+          112.18
+        ]
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": " had",
+        "timestamp": [
+          112.18,
+          112.34
+        ]
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": " a",
+        "timestamp": [
+          112.34,
+          112.46
+        ]
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": " leader",
+        "timestamp": [
+          112.46,
+          112.7
+        ]
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": " in",
+        "timestamp": [
+          112.7,
+          112.84
+        ]
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": " this",
+        "timestamp": [
+          112.84,
+          113.02
+        ]
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": " war,",
+        "timestamp": [
+          113.02,
+          113.48
+        ]
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": " he",
+        "timestamp": [
+          113.48,
+          113.92
+        ]
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": " led",
+        "timestamp": [
+          113.92,
+          114.14
+        ]
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": " everybody",
+        "timestamp": [
+          114.14,
+          114.54
+        ]
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": " along.",
+        "timestamp": [
+          114.54,
+          115.02
+        ]
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": " He's",
+        "timestamp": [
+          115.52,
+          115.72
+        ]
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": " given",
+        "timestamp": [
+          115.72,
+          115.96
+        ]
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": " $200",
+        "timestamp": [
+          115.96,
+          116.32
+        ]
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": " billion",
+        "timestamp": [
+          116.32,
+          116.86
+        ]
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": " now",
+        "timestamp": [
+          116.86,
+          117.6
+        ]
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": " or",
+        "timestamp": [
+          117.6,
+          117.84
+        ]
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": " more",
+        "timestamp": [
+          117.84,
+          118.16
+        ]
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": " to",
+        "timestamp": [
+          118.16,
+          119.26
+        ]
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": " Ukraine.",
+        "timestamp": [
+          119.26,
+          119.66
+        ]
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": " He's",
+        "timestamp": [
+          119.74,
+          119.82
+        ]
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": " given",
+        "timestamp": [
+          119.82,
+          120.04
+        ]
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": " $200",
+        "timestamp": [
+          120.04,
+          120.4
+        ]
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": " billion.",
+        "timestamp": [
+          120.4,
+          121.04
+        ]
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": " That's",
+        "timestamp": [
+          121.42,
+          121.62
+        ]
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": " a",
+        "timestamp": [
+          121.62,
+          121.7
+        ]
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": " lot",
+        "timestamp": [
+          121.7,
+          122.06
+        ]
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": " of",
+        "timestamp": [
+          122.06,
+          122.22
+        ]
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": " money.",
+        "timestamp": [
+          122.22,
+          122.54
+        ]
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": " I",
+        "timestamp": [
+          122.6,
+          122.62
+        ]
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": " don't",
+        "timestamp": [
+          122.62,
+          122.8
+        ]
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": " think",
+        "timestamp": [
+          122.8,
+          122.94
+        ]
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": " there's",
+        "timestamp": [
+          122.94,
+          123.26
+        ]
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": " ever",
+        "timestamp": [
+          123.26,
+          123.36
+        ]
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": " been",
+        "timestamp": [
+          123.36,
+          123.58
+        ]
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": " anything",
+        "timestamp": [
+          123.58,
+          123.76
+        ]
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": " like",
+        "timestamp": [
+          123.76,
+          124.14
+        ]
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": " it.",
+        "timestamp": [
+          124.14,
+          124.36
+        ]
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": " Every",
+        "timestamp": [
+          124.42,
+          124.5
+        ]
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": " time",
+        "timestamp": [
+          124.5,
+          124.84
+        ]
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": " that",
+        "timestamp": [
+          124.84,
+          125.1
+        ]
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": " Zelensky",
+        "timestamp": [
+          125.1,
+          126.1
+        ]
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": " comes",
+        "timestamp": [
+          126.1,
+          126.34
+        ]
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": " to",
+        "timestamp": [
+          126.34,
+          126.56
+        ]
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": " this",
+        "timestamp": [
+          126.56,
+          126.72
+        ]
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": " country,",
+        "timestamp": [
+          126.72,
+          127.12
+        ]
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": " he",
+        "timestamp": [
+          127.12,
+          127.18
+        ]
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": " walks",
+        "timestamp": [
+          127.18,
+          127.36
+        ]
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": " away",
+        "timestamp": [
+          127.36,
+          127.52
+        ]
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": " with",
+        "timestamp": [
+          127.52,
+          127.72
+        ]
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": " $60",
+        "timestamp": [
+          127.72,
+          127.98
+        ]
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": " billion.",
+        "timestamp": [
+          127.98,
+          128.6
+        ]
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": " He's",
+        "timestamp": [
+          128.6,
+          128.92
+        ]
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": " the",
+        "timestamp": [
+          128.92,
+          129
+        ]
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": " greatest",
+        "timestamp": [
+          129,
+          129.28
+        ]
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": " salesman",
+        "timestamp": [
+          129.38,
+          129.8
+        ]
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": " ever.",
+        "timestamp": [
+          129.8,
+          130.16
+        ]
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": " And",
+        "timestamp": [
+          130.16,
+          130.62
+        ]
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": " I'm",
+        "timestamp": [
+          130.62,
+          130.78
+        ]
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": " not",
+        "timestamp": [
+          130.78,
+          130.94
+        ]
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": " knocking",
+        "timestamp": [
+          130.94,
+          131.22
+        ]
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": " him.",
+        "timestamp": [
+          131.22,
+          131.58
+        ]
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": " I'm",
+        "timestamp": [
+          131.58,
+          131.8
+        ]
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": " not",
+        "timestamp": [
+          131.8,
+          131.94
+        ]
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": " knocking",
+        "timestamp": [
+          131.94,
+          132.24
+        ]
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": " anything.",
+        "timestamp": [
+          132.24,
+          132.78
+        ]
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": " I'm",
+        "timestamp": [
+          132.78,
+          133.22
+        ]
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": " only",
+        "timestamp": [
+          133.22,
+          133.42
+        ]
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": " saying",
+        "timestamp": [
+          133.42,
+          133.78
+        ]
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": " the",
+        "timestamp": [
+          133.78,
+          134.54
+        ]
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": " money",
+        "timestamp": [
+          134.54,
+          135.14
+        ]
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": " that",
+        "timestamp": [
+          135.14,
+          135.38
+        ]
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": " we're",
+        "timestamp": [
+          135.44,
+          135.56
+        ]
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": " spending",
+        "timestamp": [
+          135.56,
+          135.94
+        ]
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": " on",
+        "timestamp": [
+          135.94,
+          136.38
+        ]
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": " this",
+        "timestamp": [
+          136.38,
+          136.58
+        ]
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": " war,",
+        "timestamp": [
+          136.58,
+          137.12
+        ]
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": " and",
+        "timestamp": [
+          137.12,
+          137.88
+        ]
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": " we",
+        "timestamp": [
+          137.88,
+          138.14
+        ]
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": " shouldn't",
+        "timestamp": [
+          138.14,
+          138.54
+        ]
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": " be",
+        "timestamp": [
+          138.54,
+          138.66
+        ]
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": " spending,",
+        "timestamp": [
+          138.66,
+          139.12
+        ]
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": " it",
+        "timestamp": [
+          139.12,
+          139.48
+        ]
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": " should",
+        "timestamp": [
+          139.48,
+          139.7
+        ]
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": " have",
+        "timestamp": [
+          139.7,
+          139.84
+        ]
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": " never",
+        "timestamp": [
+          139.84,
+          140.04
+        ]
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": " happened.",
+        "timestamp": [
+          140.04,
+          140.62
+        ]
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": " I",
+        "timestamp": [
+          140.96,
+          141
+        ]
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": " will",
+        "timestamp": [
+          141,
+          141.24
+        ]
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": " have",
+        "timestamp": [
+          141.24,
+          141.48
+        ]
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": " that",
+        "timestamp": [
+          141.48,
+          141.8
+        ]
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": " war",
+        "timestamp": [
+          141.8,
+          142.08
+        ]
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": " settled",
+        "timestamp": [
+          142.08,
+          142.98
+        ]
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": " between",
+        "timestamp": [
+          142.98,
+          143.5
+        ]
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": " Putin",
+        "timestamp": [
+          143.5,
+          143.96
+        ]
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": " and",
+        "timestamp": [
+          143.96,
+          144.26
+        ]
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": " Zelensky",
+        "timestamp": [
+          144.26,
+          144.76
+        ]
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": " as",
+        "timestamp": [
+          144.76,
+          145.5
+        ]
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": " president",
+        "timestamp": [
+          145.5,
+          146.02
+        ]
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "-elect",
+        "timestamp": [
+          146.02,
+          146.38
+        ]
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": " before",
+        "timestamp": [
+          146.38,
+          146.76
+        ]
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": " I",
+        "timestamp": [
+          146.76,
+          146.98
+        ]
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": " take",
+        "timestamp": [
+          146.98,
+          147.16
+        ]
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": " office",
+        "timestamp": [
+          147.16,
+          147.5
+        ]
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": " on",
+        "timestamp": [
+          147.5,
+          147.76
+        ]
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": " January",
+        "timestamp": [
+          147.76,
+          148.14
+        ]
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": " 20th.",
+        "timestamp": [
+          148.14,
+          148.8
+        ]
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": " I'll",
+        "timestamp": [
+          148.8,
+          148.9
+        ]
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": " have",
+        "timestamp": [
+          148.9,
+          149.02
+        ]
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": " that",
+        "timestamp": [
+          149.02,
+          149.18
+        ]
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": " war",
+        "timestamp": [
+          149.18,
+          149.32
+        ]
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": " settled.",
+        "timestamp": [
+          149.32,
+          149.82
+        ]
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": " People",
+        "timestamp": [
+          149.82,
+          150.5
+        ]
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": " being",
+        "timestamp": [
+          150.5,
+          150.92
+        ]
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": " killed",
+        "timestamp": [
+          150.92,
+          151.44
+        ]
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": " so",
+        "timestamp": [
+          151.44,
+          152.04
+        ]
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": " needlessly,",
+        "timestamp": [
+          152.04,
+          152.92
+        ]
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": " so",
+        "timestamp": [
+          152.92,
+          153.08
+        ]
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": " stupidly,",
+        "timestamp": [
+          153.08,
+          154.12
+        ]
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": " and",
+        "timestamp": [
+          154.12,
+          154.72
+        ]
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": " I",
+        "timestamp": [
+          154.72,
+          155.06
+        ]
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": " will",
+        "timestamp": [
+          155.06,
+          155.24
+        ]
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": " get",
+        "timestamp": [
+          155.24,
+          155.44
+        ]
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": " it",
+        "timestamp": [
+          155.44,
+          155.56
+        ]
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": " settled,",
+        "timestamp": [
+          155.56,
+          155.98
+        ]
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": " and",
+        "timestamp": [
+          155.98,
+          156.1
+        ]
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": " I'll",
+        "timestamp": [
+          156.1,
+          156.22
+        ]
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": " get",
+        "timestamp": [
+          156.22,
+          156.42
+        ]
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": " it",
+        "timestamp": [
+          156.42,
+          156.6
+        ]
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": " settled",
+        "timestamp": [
+          156.6,
+          156.84
+        ]
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": " fast",
+        "timestamp": [
+          156.84,
+          157.1
+        ]
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": " before",
+        "timestamp": [
+          157.1,
+          157.44
+        ]
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": " I",
+        "timestamp": [
+          157.44,
+          157.68
+        ]
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": " take",
+        "timestamp": [
+          157.68,
+          157.86
+        ]
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": " office.",
+        "timestamp": [
+          157.86,
+          158.72
+        ]
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": " President",
+        "timestamp": [
+          158.72,
+          159.6
+        ]
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": " Biden,",
+        "timestamp": [
+          159.6,
+          159.94
+        ]
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": " you",
+        "timestamp": [
+          159.94,
+          160.06
+        ]
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": " have",
+        "timestamp": [
+          160.06,
+          160.18
+        ]
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": " a",
+        "timestamp": [
+          160.18,
+          160.22
+        ]
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": " minute.",
+        "timestamp": [
+          160.22,
+          160.66
+        ]
+      }
+    ],
+    "chunks": [
+      {
+        "text": " Never,",
+        "timestamp": [
+          0,
+          0.66
+        ]
+      },
+      {
+        "text": " just",
+        "timestamp": [
+          0.66,
+          1.38
+        ]
+      },
+      {
+        "text": " like",
+        "timestamp": [
+          1.38,
+          1.7
+        ]
+      },
+      {
+        "text": " Israel,",
+        "timestamp": [
+          1.7,
+          2.46
+        ]
+      },
+      {
+        "text": " would",
+        "timestamp": [
+          2.46,
+          2.58
+        ]
+      },
+      {
+        "text": " have",
+        "timestamp": [
+          2.58,
+          2.7
+        ]
+      },
+      {
+        "text": " never",
+        "timestamp": [
+          2.7,
+          3.04
+        ]
+      },
+      {
+        "text": " been",
+        "timestamp": [
+          3.04,
+          3.48
+        ]
+      },
+      {
+        "text": " invaded",
+        "timestamp": [
+          3.48,
+          3.98
+        ]
+      },
+      {
+        "text": " in",
+        "timestamp": [
+          3.98,
+          5.18
+        ]
+      },
+      {
+        "text": " a",
+        "timestamp": [
+          5.18,
+          5.32
+        ]
+      },
+      {
+        "text": " million",
+        "timestamp": [
+          5.32,
+          5.68
+        ]
+      },
+      {
+        "text": " years",
+        "timestamp": [
+          5.68,
+          6.02
+        ]
+      },
+      {
+        "text": " by",
+        "timestamp": [
+          6.02,
+          6.28
+        ]
+      },
+      {
+        "text": " Hamas.",
+        "timestamp": [
+          6.28,
+          6.78
+        ]
+      },
+      {
+        "text": " You",
+        "timestamp": [
+          7.46,
+          7.54
+        ]
+      },
+      {
+        "text": " know",
+        "timestamp": [
+          7.54,
+          7.62
+        ]
+      },
+      {
+        "text": " why?",
+        "timestamp": [
+          7.62,
+          8.02
+        ]
+      },
+      {
+        "text": " Because",
+        "timestamp": [
+          8.46,
+          8.7
+        ]
+      },
+      {
+        "text": " Iran",
+        "timestamp": [
+          8.7,
+          9.12
+        ]
+      },
+      {
+        "text": " was",
+        "timestamp": [
+          9.12,
+          9.42
+        ]
+      },
+      {
+        "text": " broke",
+        "timestamp": [
+          9.42,
+          9.72
+        ]
+      },
+      {
+        "text": " with",
+        "timestamp": [
+          9.72,
+          10.12
+        ]
+      },
+      {
+        "text": " me.",
+        "timestamp": [
+          10.12,
+          10.46
+        ]
+      },
+      {
+        "text": " I",
+        "timestamp": [
+          10.64,
+          10.7
+        ]
+      },
+      {
+        "text": " wouldn't",
+        "timestamp": [
+          10.7,
+          10.96
+        ]
+      },
+      {
+        "text": " let",
+        "timestamp": [
+          10.96,
+          11.06
+        ]
+      },
+      {
+        "text": " anybody",
+        "timestamp": [
+          11.06,
+          11.34
+        ]
+      },
+      {
+        "text": " do",
+        "timestamp": [
+          11.34,
+          11.68
+        ]
+      },
+      {
+        "text": " business",
+        "timestamp": [
+          11.68,
+          12.02
+        ]
+      },
+      {
+        "text": " with",
+        "timestamp": [
+          12.02,
+          12.34
+        ]
+      },
+      {
+        "text": " them.",
+        "timestamp": [
+          12.34,
+          12.52
+        ]
+      },
+      {
+        "text": " They",
+        "timestamp": [
+          12.6,
+          12.64
+        ]
+      },
+      {
+        "text": " ran",
+        "timestamp": [
+          12.64,
+          12.84
+        ]
+      },
+      {
+        "text": " out",
+        "timestamp": [
+          12.84,
+          13.1
+        ]
+      },
+      {
+        "text": " of",
+        "timestamp": [
+          13.1,
+          13.24
+        ]
+      },
+      {
+        "text": " money.",
+        "timestamp": [
+          13.24,
+          13.54
+        ]
+      },
+      {
+        "text": " They",
+        "timestamp": [
+          13.62,
+          13.62
+        ]
+      },
+      {
+        "text": " were",
+        "timestamp": [
+          13.62,
+          13.74
+        ]
+      },
+      {
+        "text": " broke.",
+        "timestamp": [
+          13.74,
+          14.14
+        ]
+      },
+      {
+        "text": " They",
+        "timestamp": [
+          14.2,
+          14.22
+        ]
+      },
+      {
+        "text": " had",
+        "timestamp": [
+          14.22,
+          14.28
+        ]
+      },
+      {
+        "text": " no",
+        "timestamp": [
+          14.28,
+          14.44
+        ]
+      },
+      {
+        "text": " money",
+        "timestamp": [
+          14.44,
+          14.64
+        ]
+      },
+      {
+        "text": " for",
+        "timestamp": [
+          14.64,
+          14.84
+        ]
+      },
+      {
+        "text": " Hamas.",
+        "timestamp": [
+          14.84,
+          15.4
+        ]
+      },
+      {
+        "text": " They",
+        "timestamp": [
+          15.6,
+          15.74
+        ]
+      },
+      {
+        "text": " had",
+        "timestamp": [
+          15.74,
+          15.9
+        ]
+      },
+      {
+        "text": " no",
+        "timestamp": [
+          15.9,
+          16.08
+        ]
+      },
+      {
+        "text": " money",
+        "timestamp": [
+          16.08,
+          16.3
+        ]
+      },
+      {
+        "text": " for",
+        "timestamp": [
+          16.3,
+          16.52
+        ]
+      },
+      {
+        "text": " anything.",
+        "timestamp": [
+          16.52,
+          17.1
+        ]
+      },
+      {
+        "text": " No",
+        "timestamp": [
+          17.3,
+          17.44
+        ]
+      },
+      {
+        "text": " money",
+        "timestamp": [
+          17.44,
+          17.66
+        ]
+      },
+      {
+        "text": " for",
+        "timestamp": [
+          17.66,
+          17.84
+        ]
+      },
+      {
+        "text": " terror.",
+        "timestamp": [
+          17.84,
+          18.2
+        ]
+      },
+      {
+        "text": " That's",
+        "timestamp": [
+          18.34,
+          18.58
+        ]
+      },
+      {
+        "text": " why",
+        "timestamp": [
+          18.58,
+          18.7
+        ]
+      },
+      {
+        "text": " you",
+        "timestamp": [
+          18.7,
+          18.86
+        ]
+      },
+      {
+        "text": " had",
+        "timestamp": [
+          18.86,
+          19
+        ]
+      },
+      {
+        "text": " no",
+        "timestamp": [
+          19,
+          19.2
+        ]
+      },
+      {
+        "text": " terror",
+        "timestamp": [
+          19.2,
+          19.48
+        ]
+      },
+      {
+        "text": " at",
+        "timestamp": [
+          19.48,
+          19.82
+        ]
+      },
+      {
+        "text": " all",
+        "timestamp": [
+          19.82,
+          20.1
+        ]
+      },
+      {
+        "text": " during",
+        "timestamp": [
+          20.1,
+          20.8
+        ]
+      },
+      {
+        "text": " my",
+        "timestamp": [
+          20.8,
+          21.06
+        ]
+      },
+      {
+        "text": " administration.",
+        "timestamp": [
+          21.06,
+          21.92
+        ]
+      },
+      {
+        "text": " This",
+        "timestamp": [
+          22.32,
+          22.54
+        ]
+      },
+      {
+        "text": " place,",
+        "timestamp": [
+          22.54,
+          22.96
+        ]
+      },
+      {
+        "text": " the",
+        "timestamp": [
+          22.96,
+          23.08
+        ]
+      },
+      {
+        "text": " whole",
+        "timestamp": [
+          23.08,
+          23.24
+        ]
+      },
+      {
+        "text": " world",
+        "timestamp": [
+          23.24,
+          23.58
+        ]
+      },
+      {
+        "text": " is",
+        "timestamp": [
+          23.58,
+          23.76
+        ]
+      },
+      {
+        "text": " blowing",
+        "timestamp": [
+          23.76,
+          24.02
+        ]
+      },
+      {
+        "text": " up",
+        "timestamp": [
+          24.02,
+          24.32
+        ]
+      },
+      {
+        "text": " under",
+        "timestamp": [
+          24.32,
+          24.58
+        ]
+      },
+      {
+        "text": " him.",
+        "timestamp": [
+          24.58,
+          25
+        ]
+      },
+      {
+        "text": " President",
+        "timestamp": [
+          26.16,
+          26.66
+        ]
+      },
+      {
+        "text": " Biden.",
+        "timestamp": [
+          26.66,
+          27.16
+        ]
+      },
+      {
+        "text": " I've",
+        "timestamp": [
+          27.16,
+          28.12
+        ]
+      },
+      {
+        "text": " never",
+        "timestamp": [
+          28.12,
+          28.3
+        ]
+      },
+      {
+        "text": " heard",
+        "timestamp": [
+          28.3,
+          28.48
+        ]
+      },
+      {
+        "text": " so",
+        "timestamp": [
+          28.48,
+          28.6
+        ]
+      },
+      {
+        "text": " much",
+        "timestamp": [
+          28.6,
+          28.8
+        ]
+      },
+      {
+        "text": " malarkey",
+        "timestamp": [
+          28.8,
+          29.22
+        ]
+      },
+      {
+        "text": " in",
+        "timestamp": [
+          29.22,
+          29.36
+        ]
+      },
+      {
+        "text": " my",
+        "timestamp": [
+          29.36,
+          29.44
+        ]
+      },
+      {
+        "text": " whole",
+        "timestamp": [
+          29.44,
+          29.6
+        ]
+      },
+      {
+        "text": " life.",
+        "timestamp": [
+          29.6,
+          29.96
+        ]
+      },
+      {
+        "text": " Look,",
+        "timestamp": [
+          29.96,
+          30.18
+        ]
+      },
+      {
+        "text": " the",
+        "timestamp": [
+          30.18,
+          30.32
+        ]
+      },
+      {
+        "text": " fact",
+        "timestamp": [
+          30.32,
+          30.52
+        ]
+      },
+      {
+        "text": " of",
+        "timestamp": [
+          30.52,
+          30.66
+        ]
+      },
+      {
+        "text": " the",
+        "timestamp": [
+          30.66,
+          30.72
+        ]
+      },
+      {
+        "text": " matter",
+        "timestamp": [
+          30.72,
+          30.94
+        ]
+      },
+      {
+        "text": " is",
+        "timestamp": [
+          30.94,
+          31.16
+        ]
+      },
+      {
+        "text": " that",
+        "timestamp": [
+          31.26,
+          31.38
+        ]
+      },
+      {
+        "text": " we're",
+        "timestamp": [
+          31.38,
+          31.66
+        ]
+      },
+      {
+        "text": " in",
+        "timestamp": [
+          31.66,
+          31.72
+        ]
+      },
+      {
+        "text": " a",
+        "timestamp": [
+          31.72,
+          31.8
+        ]
+      },
+      {
+        "text": " situation",
+        "timestamp": [
+          31.8,
+          32.18
+        ]
+      },
+      {
+        "text": " where,",
+        "timestamp": [
+          32.18,
+          32.48
+        ]
+      },
+      {
+        "text": " let's",
+        "timestamp": [
+          32.48,
+          32.6
+        ]
+      },
+      {
+        "text": " take",
+        "timestamp": [
+          32.6,
+          32.74
+        ]
+      },
+      {
+        "text": " the",
+        "timestamp": [
+          32.74,
+          32.88
+        ]
+      },
+      {
+        "text": " last",
+        "timestamp": [
+          32.88,
+          33.06
+        ]
+      },
+      {
+        "text": " point",
+        "timestamp": [
+          33.06,
+          33.3
+        ]
+      },
+      {
+        "text": " first.",
+        "timestamp": [
+          33.3,
+          33.9
+        ]
+      },
+      {
+        "text": " Iran",
+        "timestamp": [
+          33.9,
+          34.66
+        ]
+      },
+      {
+        "text": " attacked",
+        "timestamp": [
+          34.66,
+          35.46
+        ]
+      },
+      {
+        "text": " American",
+        "timestamp": [
+          35.46,
+          35.82
+        ]
+      },
+      {
+        "text": " troops,",
+        "timestamp": [
+          35.82,
+          36.62
+        ]
+      },
+      {
+        "text": " caused",
+        "timestamp": [
+          37.18,
+          37.48
+        ]
+      },
+      {
+        "text": " brain",
+        "timestamp": [
+          37.48,
+          38.82
+        ]
+      },
+      {
+        "text": " damage",
+        "timestamp": [
+          38.82,
+          39.28
+        ]
+      },
+      {
+        "text": " for",
+        "timestamp": [
+          39.28,
+          39.82
+        ]
+      },
+      {
+        "text": " a",
+        "timestamp": [
+          39.82,
+          40
+        ]
+      },
+      {
+        "text": " number",
+        "timestamp": [
+          40,
+          40.28
+        ]
+      },
+      {
+        "text": " of",
+        "timestamp": [
+          40.28,
+          40.4
+        ]
+      },
+      {
+        "text": " these",
+        "timestamp": [
+          40.4,
+          40.52
+        ]
+      },
+      {
+        "text": " troops,",
+        "timestamp": [
+          40.52,
+          40.98
+        ]
+      },
+      {
+        "text": " and",
+        "timestamp": [
+          40.98,
+          41.48
+        ]
+      },
+      {
+        "text": " he",
+        "timestamp": [
+          41.48,
+          41.64
+        ]
+      },
+      {
+        "text": " did",
+        "timestamp": [
+          41.64,
+          41.84
+        ]
+      },
+      {
+        "text": " nothing",
+        "timestamp": [
+          41.84,
+          42.06
+        ]
+      },
+      {
+        "text": " about",
+        "timestamp": [
+          42.06,
+          42.38
+        ]
+      },
+      {
+        "text": " it.",
+        "timestamp": [
+          42.38,
+          42.64
+        ]
+      },
+      {
+        "text": " Recently,",
+        "timestamp": [
+          42.64,
+          42.98
+        ]
+      },
+      {
+        "text": " when",
+        "timestamp": [
+          43.24,
+          43.28
+        ]
+      },
+      {
+        "text": " he",
+        "timestamp": [
+          43.28,
+          43.44
+        ]
+      },
+      {
+        "text": " was",
+        "timestamp": [
+          43.44,
+          43.58
+        ]
+      },
+      {
+        "text": " president,",
+        "timestamp": [
+          43.58,
+          44.06
+        ]
+      },
+      {
+        "text": " they",
+        "timestamp": [
+          44.06,
+          44.52
+        ]
+      },
+      {
+        "text": " attacked.",
+        "timestamp": [
+          44.52,
+          45.34
+        ]
+      },
+      {
+        "text": " He",
+        "timestamp": [
+          45.34,
+          45.64
+        ]
+      },
+      {
+        "text": " said",
+        "timestamp": [
+          45.64,
+          45.98
+        ]
+      },
+      {
+        "text": " they're",
+        "timestamp": [
+          45.98,
+          46.28
+        ]
+      },
+      {
+        "text": " just",
+        "timestamp": [
+          46.28,
+          46.42
+        ]
+      },
+      {
+        "text": " having",
+        "timestamp": [
+          46.42,
+          46.62
+        ]
+      },
+      {
+        "text": " headaches.",
+        "timestamp": [
+          46.62,
+          47.2
+        ]
+      },
+      {
+        "text": " That's",
+        "timestamp": [
+          47.2,
+          47.42
+        ]
+      },
+      {
+        "text": " all",
+        "timestamp": [
+          47.42,
+          47.58
+        ]
+      },
+      {
+        "text": " it",
+        "timestamp": [
+          47.58,
+          47.72
+        ]
+      },
+      {
+        "text": " is.",
+        "timestamp": [
+          47.72,
+          48.04
+        ]
+      },
+      {
+        "text": " a",
+        "timestamp": [
+          40,
+          40.04
+        ]
+      },
+      {
+        "text": " number",
+        "timestamp": [
+          40.04,
+          40.28
+        ]
+      },
+      {
+        "text": " of",
+        "timestamp": [
+          40.28,
+          40.38
+        ]
+      },
+      {
+        "text": " these",
+        "timestamp": [
+          40.38,
+          40.54
+        ]
+      },
+      {
+        "text": " troops,",
+        "timestamp": [
+          40.54,
+          40.98
+        ]
+      },
+      {
+        "text": " and",
+        "timestamp": [
+          40.98,
+          41.48
+        ]
+      },
+      {
+        "text": " he",
+        "timestamp": [
+          41.48,
+          41.62
+        ]
+      },
+      {
+        "text": " did",
+        "timestamp": [
+          41.62,
+          41.84
+        ]
+      },
+      {
+        "text": " nothing",
+        "timestamp": [
+          41.84,
+          42.06
+        ]
+      },
+      {
+        "text": " about",
+        "timestamp": [
+          42.06,
+          42.34
+        ]
+      },
+      {
+        "text": " it",
+        "timestamp": [
+          42.34,
+          42.6
+        ]
+      },
+      {
+        "text": " when",
+        "timestamp": [
+          42.6,
+          42.96
+        ]
+      },
+      {
+        "text": " he",
+        "timestamp": [
+          42.96,
+          43.44
+        ]
+      },
+      {
+        "text": " was",
+        "timestamp": [
+          43.44,
+          43.56
+        ]
+      },
+      {
+        "text": " president.",
+        "timestamp": [
+          43.56,
+          44.04
+        ]
+      },
+      {
+        "text": " They",
+        "timestamp": [
+          44.04,
+          44.52
+        ]
+      },
+      {
+        "text": " attacked.",
+        "timestamp": [
+          44.52,
+          45.32
+        ]
+      },
+      {
+        "text": " He",
+        "timestamp": [
+          45.54,
+          45.64
+        ]
+      },
+      {
+        "text": " said",
+        "timestamp": [
+          45.64,
+          45.98
+        ]
+      },
+      {
+        "text": " they're",
+        "timestamp": [
+          45.98,
+          46.28
+        ]
+      },
+      {
+        "text": " just",
+        "timestamp": [
+          46.28,
+          46.42
+        ]
+      },
+      {
+        "text": " having",
+        "timestamp": [
+          46.42,
+          46.62
+        ]
+      },
+      {
+        "text": " headaches.",
+        "timestamp": [
+          46.62,
+          47.22
+        ]
+      },
+      {
+        "text": " That's",
+        "timestamp": [
+          47.22,
+          47.42
+        ]
+      },
+      {
+        "text": " all",
+        "timestamp": [
+          47.42,
+          47.56
+        ]
+      },
+      {
+        "text": " it",
+        "timestamp": [
+          47.56,
+          47.72
+        ]
+      },
+      {
+        "text": " is.",
+        "timestamp": [
+          47.72,
+          48.08
+        ]
+      },
+      {
+        "text": " He",
+        "timestamp": [
+          48.08,
+          48.54
+        ]
+      },
+      {
+        "text": " didn't",
+        "timestamp": [
+          48.54,
+          48.9
+        ]
+      },
+      {
+        "text": " do",
+        "timestamp": [
+          48.9,
+          49.04
+        ]
+      },
+      {
+        "text": " a",
+        "timestamp": [
+          49.04,
+          49.12
+        ]
+      },
+      {
+        "text": " thing",
+        "timestamp": [
+          49.12,
+          49.42
+        ]
+      },
+      {
+        "text": " when",
+        "timestamp": [
+          49.42,
+          50.02
+        ]
+      },
+      {
+        "text": " the",
+        "timestamp": [
+          50.02,
+          50.14
+        ]
+      },
+      {
+        "text": " attack",
+        "timestamp": [
+          50.14,
+          50.28
+        ]
+      },
+      {
+        "text": " took",
+        "timestamp": [
+          50.46,
+          50.56
+        ]
+      },
+      {
+        "text": " place,",
+        "timestamp": [
+          50.56,
+          50.98
+        ]
+      },
+      {
+        "text": " number",
+        "timestamp": [
+          50.98,
+          51.14
+        ]
+      },
+      {
+        "text": " one.",
+        "timestamp": [
+          51.14,
+          51.52
+        ]
+      },
+      {
+        "text": " Number",
+        "timestamp": [
+          51.52,
+          52.16
+        ]
+      },
+      {
+        "text": " two,",
+        "timestamp": [
+          52.16,
+          52.62
+        ]
+      },
+      {
+        "text": " we",
+        "timestamp": [
+          52.62,
+          53.24
+        ]
+      },
+      {
+        "text": " got",
+        "timestamp": [
+          53.24,
+          53.4
+        ]
+      },
+      {
+        "text": " over",
+        "timestamp": [
+          53.4,
+          53.7
+        ]
+      },
+      {
+        "text": " 100",
+        "timestamp": [
+          53.7,
+          54.02
+        ]
+      },
+      {
+        "text": ",000",
+        "timestamp": [
+          54.02,
+          54.7
+        ]
+      },
+      {
+        "text": " Americans",
+        "timestamp": [
+          54.7,
+          55.22
+        ]
+      },
+      {
+        "text": " and",
+        "timestamp": [
+          55.22,
+          55.68
+        ]
+      },
+      {
+        "text": " others",
+        "timestamp": [
+          55.68,
+          56.06
+        ]
+      },
+      {
+        "text": " out",
+        "timestamp": [
+          56.06,
+          56.46
+        ]
+      },
+      {
+        "text": " of",
+        "timestamp": [
+          56.46,
+          57.16
+        ]
+      },
+      {
+        "text": " Afghanistan",
+        "timestamp": [
+          57.16,
+          58.1
+        ]
+      },
+      {
+        "text": " during",
+        "timestamp": [
+          58.42,
+          59.16
+        ]
+      },
+      {
+        "text": " that",
+        "timestamp": [
+          59.16,
+          59.38
+        ]
+      },
+      {
+        "text": " airlift.",
+        "timestamp": [
+          59.38,
+          59.98
+        ]
+      },
+      {
+        "text": " Number",
+        "timestamp": [
+          59.98,
+          60.46
+        ]
+      },
+      {
+        "text": " three,",
+        "timestamp": [
+          60.46,
+          61.06
+        ]
+      },
+      {
+        "text": " we",
+        "timestamp": [
+          61.06,
+          61.36
+        ]
+      },
+      {
+        "text": " found",
+        "timestamp": [
+          61.36,
+          61.64
+        ]
+      },
+      {
+        "text": " ourselves",
+        "timestamp": [
+          61.64,
+          61.86
+        ]
+      },
+      {
+        "text": " in",
+        "timestamp": [
+          61.86,
+          62.1
+        ]
+      },
+      {
+        "text": " a",
+        "timestamp": [
+          62.1,
+          62.18
+        ]
+      },
+      {
+        "text": " situation",
+        "timestamp": [
+          62.18,
+          62.5
+        ]
+      },
+      {
+        "text": " where",
+        "timestamp": [
+          62.5,
+          63
+        ]
+      },
+      {
+        "text": " if",
+        "timestamp": [
+          63,
+          63.66
+        ]
+      },
+      {
+        "text": " you",
+        "timestamp": [
+          63.66,
+          63.78
+        ]
+      },
+      {
+        "text": " take",
+        "timestamp": [
+          63.78,
+          63.98
+        ]
+      },
+      {
+        "text": " a",
+        "timestamp": [
+          63.98,
+          64.1
+        ]
+      },
+      {
+        "text": " look",
+        "timestamp": [
+          64.1,
+          64.28
+        ]
+      },
+      {
+        "text": " at",
+        "timestamp": [
+          64.28,
+          64.4
+        ]
+      },
+      {
+        "text": " what",
+        "timestamp": [
+          64.4,
+          64.58
+        ]
+      },
+      {
+        "text": " Trump",
+        "timestamp": [
+          64.58,
+          65.04
+        ]
+      },
+      {
+        "text": " did",
+        "timestamp": [
+          65.04,
+          65.28
+        ]
+      },
+      {
+        "text": " in",
+        "timestamp": [
+          65.28,
+          65.44
+        ]
+      },
+      {
+        "text": " Ukraine,",
+        "timestamp": [
+          65.44,
+          66.04
+        ]
+      },
+      {
+        "text": " this",
+        "timestamp": [
+          66.04,
+          66.96
+        ]
+      },
+      {
+        "text": " guy",
+        "timestamp": [
+          66.96,
+          67.6
+        ]
+      },
+      {
+        "text": " told",
+        "timestamp": [
+          67.6,
+          67.86
+        ]
+      },
+      {
+        "text": " Trump,",
+        "timestamp": [
+          67.86,
+          69.28
+        ]
+      },
+      {
+        "text": " do",
+        "timestamp": [
+          69.28,
+          69.62
+        ]
+      },
+      {
+        "text": " whatever",
+        "timestamp": [
+          69.62,
+          69.9
+        ]
+      },
+      {
+        "text": " you",
+        "timestamp": [
+          69.9,
+          70.24
+        ]
+      },
+      {
+        "text": " want",
+        "timestamp": [
+          70.24,
+          70.6
+        ]
+      },
+      {
+        "text": " and",
+        "timestamp": [
+          70.6,
+          71.12
+        ]
+      },
+      {
+        "text": " do",
+        "timestamp": [
+          71.12,
+          71.36
+        ]
+      },
+      {
+        "text": " whatever",
+        "timestamp": [
+          71.36,
+          71.62
+        ]
+      },
+      {
+        "text": " you",
+        "timestamp": [
+          71.62,
+          72
+        ]
+      },
+      {
+        "text": " want.",
+        "timestamp": [
+          72,
+          72.42
+        ]
+      },
+      {
+        "text": " And",
+        "timestamp": [
+          72.96,
+          72.98
+        ]
+      },
+      {
+        "text": " that's",
+        "timestamp": [
+          72.98,
+          73.34
+        ]
+      },
+      {
+        "text": " exactly",
+        "timestamp": [
+          73.34,
+          73.58
+        ]
+      },
+      {
+        "text": " what",
+        "timestamp": [
+          73.58,
+          73.9
+        ]
+      },
+      {
+        "text": " Trump",
+        "timestamp": [
+          73.9,
+          74.16
+        ]
+      },
+      {
+        "text": " did",
+        "timestamp": [
+          74.16,
+          74.46
+        ]
+      },
+      {
+        "text": " to",
+        "timestamp": [
+          74.46,
+          75.54
+        ]
+      },
+      {
+        "text": " Putin,",
+        "timestamp": [
+          75.54,
+          76.1
+        ]
+      },
+      {
+        "text": " encourage",
+        "timestamp": [
+          76.1,
+          76.42
+        ]
+      },
+      {
+        "text": " him,",
+        "timestamp": [
+          76.42,
+          76.74
+        ]
+      },
+      {
+        "text": " do",
+        "timestamp": [
+          76.74,
+          76.9
+        ]
+      },
+      {
+        "text": " whatever",
+        "timestamp": [
+          76.9,
+          77.16
+        ]
+      },
+      {
+        "text": " you",
+        "timestamp": [
+          77.16,
+          77.4
+        ]
+      },
+      {
+        "text": " want.",
+        "timestamp": [
+          77.4,
+          77.74
+        ]
+      },
+      {
+        "text": " And",
+        "timestamp": [
+          78.08,
+          78.08
+        ]
+      },
+      {
+        "text": " he",
+        "timestamp": [
+          78.08,
+          78.2
+        ]
+      },
+      {
+        "text": " went",
+        "timestamp": [
+          78.2,
+          78.36
+        ]
+      },
+      {
+        "text": " in",
+        "timestamp": [
+          78.36,
+          78.54
+        ]
+      },
+      {
+        "text": " and",
+        "timestamp": [
+          78.54,
+          78.68
+        ]
+      },
+      {
+        "text": " listen",
+        "timestamp": [
+          78.68,
+          78.9
+        ]
+      },
+      {
+        "text": " to",
+        "timestamp": [
+          78.9,
+          79.06
+        ]
+      },
+      {
+        "text": " what",
+        "timestamp": [
+          79.06,
+          79.16
+        ]
+      },
+      {
+        "text": " he",
+        "timestamp": [
+          79.16,
+          79.28
+        ]
+      },
+      {
+        "text": " said",
+        "timestamp": [
+          79.28,
+          79.48
+        ]
+      },
+      {
+        "text": " when",
+        "timestamp": [
+          79.48,
+          79.66
+        ]
+      },
+      {
+        "text": " he",
+        "timestamp": [
+          79.66,
+          79.76
+        ]
+      },
+      {
+        "text": " went",
+        "timestamp": [
+          79.76,
+          79.86
+        ]
+      },
+      {
+        "text": " in.",
+        "timestamp": [
+          79.86,
+          80.08
+        ]
+      },
+      {
+        "text": " He",
+        "timestamp": [
+          80.44,
+          80.46
+        ]
+      },
+      {
+        "text": " was",
+        "timestamp": [
+          80.46,
+          80.6
+        ]
+      },
+      {
+        "text": " going",
+        "timestamp": [
+          80.6,
+          80.7
+        ]
+      },
+      {
+        "text": " to",
+        "timestamp": [
+          80.7,
+          80.82
+        ]
+      },
+      {
+        "text": " take",
+        "timestamp": [
+          80.82,
+          81.04
+        ]
+      },
+      {
+        "text": " Kiev",
+        "timestamp": [
+          81.04,
+          81.32
+        ]
+      },
+      {
+        "text": " in",
+        "timestamp": [
+          81.32,
+          81.48
+        ]
+      },
+      {
+        "text": " five",
+        "timestamp": [
+          81.48,
+          81.68
+        ]
+      },
+      {
+        "text": " days,",
+        "timestamp": [
+          81.68,
+          82.16
+        ]
+      },
+      {
+        "text": " remember,",
+        "timestamp": [
+          82.16,
+          82.62
+        ]
+      },
+      {
+        "text": " because",
+        "timestamp": [
+          82.62,
+          83
+        ]
+      },
+      {
+        "text": " it's",
+        "timestamp": [
+          83,
+          83.22
+        ]
+      },
+      {
+        "text": " part",
+        "timestamp": [
+          83.22,
+          83.38
+        ]
+      },
+      {
+        "text": " of",
+        "timestamp": [
+          83.38,
+          83.54
+        ]
+      },
+      {
+        "text": " the",
+        "timestamp": [
+          83.54,
+          83.58
+        ]
+      },
+      {
+        "text": " old",
+        "timestamp": [
+          83.58,
+          83.72
+        ]
+      },
+      {
+        "text": " Soviet",
+        "timestamp": [
+          83.72,
+          84.06
+        ]
+      },
+      {
+        "text": " Union.",
+        "timestamp": [
+          84.06,
+          84.56
+        ]
+      },
+      {
+        "text": " That's",
+        "timestamp": [
+          84.8,
+          85
+        ]
+      },
+      {
+        "text": " what",
+        "timestamp": [
+          85,
+          85.06
+        ]
+      },
+      {
+        "text": " he",
+        "timestamp": [
+          85.06,
+          85.18
+        ]
+      },
+      {
+        "text": " wanted",
+        "timestamp": [
+          85.18,
+          85.42
+        ]
+      },
+      {
+        "text": " to",
+        "timestamp": [
+          85.42,
+          85.58
+        ]
+      },
+      {
+        "text": " reestablish,",
+        "timestamp": [
+          85.58,
+          86.36
+        ]
+      },
+      {
+        "text": " Kiev.",
+        "timestamp": [
+          86.36,
+          87.2
+        ]
+      },
+      {
+        "text": " And",
+        "timestamp": [
+          87.52,
+          87.7
+        ]
+      },
+      {
+        "text": " he,",
+        "timestamp": [
+          87.7,
+          87.96
+        ]
+      },
+      {
+        "text": " in",
+        "timestamp": [
+          87.96,
+          88.08
+        ]
+      },
+      {
+        "text": " fact,",
+        "timestamp": [
+          88.08,
+          88.34
+        ]
+      },
+      {
+        "text": " didn't",
+        "timestamp": [
+          88.34,
+          88.72
+        ]
+      },
+      {
+        "text": " do",
+        "timestamp": [
+          88.72,
+          88.86
+        ]
+      },
+      {
+        "text": " it",
+        "timestamp": [
+          88.86,
+          88.96
+        ]
+      },
+      {
+        "text": " at",
+        "timestamp": [
+          88.96,
+          89.08
+        ]
+      },
+      {
+        "text": " all.",
+        "timestamp": [
+          89.08,
+          89.38
+        ]
+      },
+      {
+        "text": " He",
+        "timestamp": [
+          89.44,
+          89.46
+        ]
+      },
+      {
+        "text": " wasn't",
+        "timestamp": [
+          89.46,
+          89.98
+        ]
+      },
+      {
+        "text": " able",
+        "timestamp": [
+          89.98,
+          90.16
+        ]
+      },
+      {
+        "text": " to",
+        "timestamp": [
+          90.16,
+          90.3
+        ]
+      },
+      {
+        "text": " get",
+        "timestamp": [
+          90.3,
+          90.46
+        ]
+      },
+      {
+        "text": " it",
+        "timestamp": [
+          90.46,
+          90.58
+        ]
+      },
+      {
+        "text": " done.",
+        "timestamp": [
+          90.58,
+          90.92
+        ]
+      },
+      {
+        "text": " And",
+        "timestamp": [
+          91.32,
+          91.38
+        ]
+      },
+      {
+        "text": " they've",
+        "timestamp": [
+          91.38,
+          91.64
+        ]
+      },
+      {
+        "text": " lost",
+        "timestamp": [
+          91.64,
+          91.94
+        ]
+      },
+      {
+        "text": " thousands",
+        "timestamp": [
+          91.94,
+          92.46
+        ]
+      },
+      {
+        "text": " and",
+        "timestamp": [
+          92.46,
+          93.86
+        ]
+      },
+      {
+        "text": " thousands",
+        "timestamp": [
+          93.86,
+          94.2
+        ]
+      },
+      {
+        "text": " of",
+        "timestamp": [
+          94.2,
+          94.38
+        ]
+      },
+      {
+        "text": " troops,",
+        "timestamp": [
+          94.38,
+          94.94
+        ]
+      },
+      {
+        "text": " 500",
+        "timestamp": [
+          94.94,
+          95.4
+        ]
+      },
+      {
+        "text": ",000",
+        "timestamp": [
+          95.4,
+          95.88
+        ]
+      },
+      {
+        "text": " troops.",
+        "timestamp": [
+          95.88,
+          96.72
+        ]
+      },
+      {
+        "text": " President",
+        "timestamp": [
+          96.72,
+          97.3
+        ]
+      },
+      {
+        "text": " Trump,",
+        "timestamp": [
+          97.3,
+          97.76
+        ]
+      },
+      {
+        "text": " let",
+        "timestamp": [
+          97.76,
+          97.86
+        ]
+      },
+      {
+        "text": " me",
+        "timestamp": [
+          97.86,
+          97.96
+        ]
+      },
+      {
+        "text": " come",
+        "timestamp": [
+          97.96,
+          98.12
+        ]
+      },
+      {
+        "text": " back",
+        "timestamp": [
+          98.12,
+          98.3
+        ]
+      },
+      {
+        "text": " to",
+        "timestamp": [
+          98.3,
+          98.32
+        ]
+      },
+      {
+        "text": " you",
+        "timestamp": [
+          98.32,
+          98.6
+        ]
+      },
+      {
+        "text": " for",
+        "timestamp": [
+          98.6,
+          98.8
+        ]
+      },
+      {
+        "text": " one",
+        "timestamp": [
+          98.8,
+          99.24
+        ]
+      },
+      {
+        "text": " minute.",
+        "timestamp": [
+          99.24,
+          99.56
+        ]
+      },
+      {
+        "text": " I",
+        "timestamp": [
+          99.64,
+          99.7
+        ]
+      },
+      {
+        "text": " just",
+        "timestamp": [
+          99.7,
+          99.72
+        ]
+      },
+      {
+        "text": " want",
+        "timestamp": [
+          99.72,
+          99.96
+        ]
+      },
+      {
+        "text": " to",
+        "timestamp": [
+          99.96,
+          100.1
+        ]
+      },
+      {
+        "text": " go",
+        "timestamp": [
+          100.1,
+          100.34
+        ]
+      },
+      {
+        "text": " back",
+        "timestamp": [
+          100.34,
+          100.56
+        ]
+      },
+      {
+        "text": " to",
+        "timestamp": [
+          100.56,
+          100.7
+        ]
+      },
+      {
+        "text": " my",
+        "timestamp": [
+          100.7,
+          100.84
+        ]
+      },
+      {
+        "text": " original",
+        "timestamp": [
+          100.84,
+          101.16
+        ]
+      },
+      {
+        "text": " question,",
+        "timestamp": [
+          101.16,
+          101.8
+        ]
+      },
+      {
+        "text": " which",
+        "timestamp": [
+          101.8,
+          101.98
+        ]
+      },
+      {
+        "text": " is,",
+        "timestamp": [
+          101.98,
+          102.3
+        ]
+      },
+      {
+        "text": " are",
+        "timestamp": [
+          102.3,
+          102.64
+        ]
+      },
+      {
+        "text": " Putin's",
+        "timestamp": [
+          102.64,
+          103.22
+        ]
+      },
+      {
+        "text": " terms",
+        "timestamp": [
+          103.22,
+          103.76
+        ]
+      },
+      {
+        "text": " acceptable",
+        "timestamp": [
+          103.76,
+          104.38
+        ]
+      },
+      {
+        "text": " to",
+        "timestamp": [
+          104.38,
+          104.88
+        ]
+      },
+      {
+        "text": " you,",
+        "timestamp": [
+          104.88,
+          105.22
+        ]
+      },
+      {
+        "text": " keeping",
+        "timestamp": [
+          105.22,
+          105.56
+        ]
+      },
+      {
+        "text": " the",
+        "timestamp": [
+          105.56,
+          105.76
+        ]
+      },
+      {
+        "text": " territory",
+        "timestamp": [
+          105.76,
+          106.1
+        ]
+      },
+      {
+        "text": " in",
+        "timestamp": [
+          106.1,
+          106.38
+        ]
+      },
+      {
+        "text": " Ukraine?",
+        "timestamp": [
+          106.38,
+          106.9
+        ]
+      },
+      {
+        "text": " No,",
+        "timestamp": [
+          107.02,
+          107.36
+        ]
+      },
+      {
+        "text": " they're",
+        "timestamp": [
+          107.36,
+          107.54
+        ]
+      },
+      {
+        "text": " not",
+        "timestamp": [
+          107.54,
+          107.62
+        ]
+      },
+      {
+        "text": " acceptable.",
+        "timestamp": [
+          107.62,
+          108.2
+        ]
+      },
+      {
+        "text": " But",
+        "timestamp": [
+          109.12,
+          109.28
+        ]
+      },
+      {
+        "text": " look,",
+        "timestamp": [
+          109.28,
+          109.7
+        ]
+      },
+      {
+        "text": " this",
+        "timestamp": [
+          109.7,
+          110.06
+        ]
+      },
+      {
+        "text": " is",
+        "timestamp": [
+          110.06,
+          110.24
+        ]
+      },
+      {
+        "text": " a",
+        "timestamp": [
+          110.24,
+          110.38
+        ]
+      },
+      {
+        "text": " war",
+        "timestamp": [
+          110.38,
+          110.56
+        ]
+      },
+      {
+        "text": " that",
+        "timestamp": [
+          110.56,
+          110.76
+        ]
+      },
+      {
+        "text": " never",
+        "timestamp": [
+          110.76,
+          110.92
+        ]
+      },
+      {
+        "text": " should",
+        "timestamp": [
+          110.92,
+          111.16
+        ]
+      },
+      {
+        "text": " have",
+        "timestamp": [
+          111.16,
+          111.3
+        ]
+      },
+      {
+        "text": " started.",
+        "timestamp": [
+          111.3,
+          111.7
+        ]
+      },
+      {
+        "text": " If",
+        "timestamp": [
+          111.7,
+          112.02
+        ]
+      },
+      {
+        "text": " we",
+        "timestamp": [
+          112.02,
+          112.18
+        ]
+      },
+      {
+        "text": " had",
+        "timestamp": [
+          112.18,
+          112.34
+        ]
+      },
+      {
+        "text": " a",
+        "timestamp": [
+          112.34,
+          112.46
+        ]
+      },
+      {
+        "text": " leader",
+        "timestamp": [
+          112.46,
+          112.7
+        ]
+      },
+      {
+        "text": " in",
+        "timestamp": [
+          112.7,
+          112.84
+        ]
+      },
+      {
+        "text": " this",
+        "timestamp": [
+          112.84,
+          113.02
+        ]
+      },
+      {
+        "text": " war,",
+        "timestamp": [
+          113.02,
+          113.48
+        ]
+      },
+      {
+        "text": " he",
+        "timestamp": [
+          113.48,
+          113.92
+        ]
+      },
+      {
+        "text": " led",
+        "timestamp": [
+          113.92,
+          114.14
+        ]
+      },
+      {
+        "text": " everybody",
+        "timestamp": [
+          114.14,
+          114.54
+        ]
+      },
+      {
+        "text": " along.",
+        "timestamp": [
+          114.54,
+          115.02
+        ]
+      },
+      {
+        "text": " He's",
+        "timestamp": [
+          115.52,
+          115.72
+        ]
+      },
+      {
+        "text": " given",
+        "timestamp": [
+          115.72,
+          115.96
+        ]
+      },
+      {
+        "text": " $200",
+        "timestamp": [
+          115.96,
+          116.32
+        ]
+      },
+      {
+        "text": " billion",
+        "timestamp": [
+          116.32,
+          116.86
+        ]
+      },
+      {
+        "text": " now",
+        "timestamp": [
+          116.86,
+          117.6
+        ]
+      },
+      {
+        "text": " or",
+        "timestamp": [
+          117.6,
+          117.84
+        ]
+      },
+      {
+        "text": " more",
+        "timestamp": [
+          117.84,
+          118.16
+        ]
+      },
+      {
+        "text": " to",
+        "timestamp": [
+          118.16,
+          119.26
+        ]
+      },
+      {
+        "text": " Ukraine.",
+        "timestamp": [
+          119.26,
+          119.66
+        ]
+      },
+      {
+        "text": " He's",
+        "timestamp": [
+          119.74,
+          119.82
+        ]
+      },
+      {
+        "text": " given",
+        "timestamp": [
+          119.82,
+          120.04
+        ]
+      },
+      {
+        "text": " $200",
+        "timestamp": [
+          120.04,
+          120.4
+        ]
+      },
+      {
+        "text": " billion.",
+        "timestamp": [
+          120.4,
+          121.04
+        ]
+      },
+      {
+        "text": " That's",
+        "timestamp": [
+          121.42,
+          121.62
+        ]
+      },
+      {
+        "text": " a",
+        "timestamp": [
+          121.62,
+          121.7
+        ]
+      },
+      {
+        "text": " lot",
+        "timestamp": [
+          121.7,
+          122.06
+        ]
+      },
+      {
+        "text": " of",
+        "timestamp": [
+          122.06,
+          122.22
+        ]
+      },
+      {
+        "text": " money.",
+        "timestamp": [
+          122.22,
+          122.54
+        ]
+      },
+      {
+        "text": " I",
+        "timestamp": [
+          122.6,
+          122.62
+        ]
+      },
+      {
+        "text": " don't",
+        "timestamp": [
+          122.62,
+          122.8
+        ]
+      },
+      {
+        "text": " think",
+        "timestamp": [
+          122.8,
+          122.94
+        ]
+      },
+      {
+        "text": " there's",
+        "timestamp": [
+          122.94,
+          123.26
+        ]
+      },
+      {
+        "text": " ever",
+        "timestamp": [
+          123.26,
+          123.36
+        ]
+      },
+      {
+        "text": " been",
+        "timestamp": [
+          123.36,
+          123.58
+        ]
+      },
+      {
+        "text": " anything",
+        "timestamp": [
+          123.58,
+          123.76
+        ]
+      },
+      {
+        "text": " like",
+        "timestamp": [
+          123.76,
+          124.14
+        ]
+      },
+      {
+        "text": " it.",
+        "timestamp": [
+          124.14,
+          124.36
+        ]
+      },
+      {
+        "text": " Every",
+        "timestamp": [
+          124.42,
+          124.5
+        ]
+      },
+      {
+        "text": " time",
+        "timestamp": [
+          124.5,
+          124.84
+        ]
+      },
+      {
+        "text": " that",
+        "timestamp": [
+          124.84,
+          125.1
+        ]
+      },
+      {
+        "text": " Zelensky",
+        "timestamp": [
+          125.1,
+          126.1
+        ]
+      },
+      {
+        "text": " comes",
+        "timestamp": [
+          126.1,
+          126.34
+        ]
+      },
+      {
+        "text": " to",
+        "timestamp": [
+          126.34,
+          126.56
+        ]
+      },
+      {
+        "text": " this",
+        "timestamp": [
+          126.56,
+          126.72
+        ]
+      },
+      {
+        "text": " country,",
+        "timestamp": [
+          126.72,
+          127.12
+        ]
+      },
+      {
+        "text": " he",
+        "timestamp": [
+          127.12,
+          127.18
+        ]
+      },
+      {
+        "text": " walks",
+        "timestamp": [
+          127.18,
+          127.36
+        ]
+      },
+      {
+        "text": " away",
+        "timestamp": [
+          127.36,
+          127.52
+        ]
+      },
+      {
+        "text": " with",
+        "timestamp": [
+          127.52,
+          127.72
+        ]
+      },
+      {
+        "text": " $60",
+        "timestamp": [
+          127.72,
+          127.98
+        ]
+      },
+      {
+        "text": " billion.",
+        "timestamp": [
+          127.98,
+          128.6
+        ]
+      },
+      {
+        "text": " He's",
+        "timestamp": [
+          128.6,
+          128.92
+        ]
+      },
+      {
+        "text": " the",
+        "timestamp": [
+          128.92,
+          129
+        ]
+      },
+      {
+        "text": " greatest",
+        "timestamp": [
+          129,
+          129.28
+        ]
+      },
+      {
+        "text": " salesman",
+        "timestamp": [
+          129.38,
+          129.8
+        ]
+      },
+      {
+        "text": " ever.",
+        "timestamp": [
+          129.8,
+          130.16
+        ]
+      },
+      {
+        "text": " And",
+        "timestamp": [
+          130.16,
+          130.62
+        ]
+      },
+      {
+        "text": " I'm",
+        "timestamp": [
+          130.62,
+          130.78
+        ]
+      },
+      {
+        "text": " not",
+        "timestamp": [
+          130.78,
+          130.94
+        ]
+      },
+      {
+        "text": " knocking",
+        "timestamp": [
+          130.94,
+          131.22
+        ]
+      },
+      {
+        "text": " him.",
+        "timestamp": [
+          131.22,
+          131.58
+        ]
+      },
+      {
+        "text": " I'm",
+        "timestamp": [
+          131.58,
+          131.8
+        ]
+      },
+      {
+        "text": " not",
+        "timestamp": [
+          131.8,
+          131.94
+        ]
+      },
+      {
+        "text": " knocking",
+        "timestamp": [
+          131.94,
+          132.24
+        ]
+      },
+      {
+        "text": " anything.",
+        "timestamp": [
+          132.24,
+          132.78
+        ]
+      },
+      {
+        "text": " I'm",
+        "timestamp": [
+          132.78,
+          133.22
+        ]
+      },
+      {
+        "text": " only",
+        "timestamp": [
+          133.22,
+          133.42
+        ]
+      },
+      {
+        "text": " saying",
+        "timestamp": [
+          133.42,
+          133.78
+        ]
+      },
+      {
+        "text": " the",
+        "timestamp": [
+          133.78,
+          134.54
+        ]
+      },
+      {
+        "text": " money",
+        "timestamp": [
+          134.54,
+          135.14
+        ]
+      },
+      {
+        "text": " that",
+        "timestamp": [
+          135.14,
+          135.38
+        ]
+      },
+      {
+        "text": " we're",
+        "timestamp": [
+          135.44,
+          135.56
+        ]
+      },
+      {
+        "text": " spending",
+        "timestamp": [
+          135.56,
+          135.94
+        ]
+      },
+      {
+        "text": " on",
+        "timestamp": [
+          135.94,
+          136.38
+        ]
+      },
+      {
+        "text": " this",
+        "timestamp": [
+          136.38,
+          136.58
+        ]
+      },
+      {
+        "text": " war,",
+        "timestamp": [
+          136.58,
+          137.12
+        ]
+      },
+      {
+        "text": " and",
+        "timestamp": [
+          137.12,
+          137.88
+        ]
+      },
+      {
+        "text": " we",
+        "timestamp": [
+          137.88,
+          138.14
+        ]
+      },
+      {
+        "text": " shouldn't",
+        "timestamp": [
+          138.14,
+          138.54
+        ]
+      },
+      {
+        "text": " be",
+        "timestamp": [
+          138.54,
+          138.66
+        ]
+      },
+      {
+        "text": " spending,",
+        "timestamp": [
+          138.66,
+          139.12
+        ]
+      },
+      {
+        "text": " it",
+        "timestamp": [
+          139.12,
+          139.48
+        ]
+      },
+      {
+        "text": " should",
+        "timestamp": [
+          139.48,
+          139.7
+        ]
+      },
+      {
+        "text": " have",
+        "timestamp": [
+          139.7,
+          139.84
+        ]
+      },
+      {
+        "text": " never",
+        "timestamp": [
+          139.84,
+          140.04
+        ]
+      },
+      {
+        "text": " happened.",
+        "timestamp": [
+          140.04,
+          140.62
+        ]
+      },
+      {
+        "text": " I",
+        "timestamp": [
+          140.96,
+          141
+        ]
+      },
+      {
+        "text": " will",
+        "timestamp": [
+          141,
+          141.24
+        ]
+      },
+      {
+        "text": " have",
+        "timestamp": [
+          141.24,
+          141.48
+        ]
+      },
+      {
+        "text": " that",
+        "timestamp": [
+          141.48,
+          141.8
+        ]
+      },
+      {
+        "text": " war",
+        "timestamp": [
+          141.8,
+          142.08
+        ]
+      },
+      {
+        "text": " settled",
+        "timestamp": [
+          142.08,
+          142.98
+        ]
+      },
+      {
+        "text": " between",
+        "timestamp": [
+          142.98,
+          143.5
+        ]
+      },
+      {
+        "text": " Putin",
+        "timestamp": [
+          143.5,
+          143.96
+        ]
+      },
+      {
+        "text": " and",
+        "timestamp": [
+          143.96,
+          144.26
+        ]
+      },
+      {
+        "text": " Zelensky",
+        "timestamp": [
+          144.26,
+          144.76
+        ]
+      },
+      {
+        "text": " as",
+        "timestamp": [
+          144.76,
+          145.5
+        ]
+      },
+      {
+        "text": " president",
+        "timestamp": [
+          145.5,
+          146.02
+        ]
+      },
+      {
+        "text": "-elect",
+        "timestamp": [
+          146.02,
+          146.38
+        ]
+      },
+      {
+        "text": " before",
+        "timestamp": [
+          146.38,
+          146.76
+        ]
+      },
+      {
+        "text": " I",
+        "timestamp": [
+          146.76,
+          146.98
+        ]
+      },
+      {
+        "text": " take",
+        "timestamp": [
+          146.98,
+          147.16
+        ]
+      },
+      {
+        "text": " office",
+        "timestamp": [
+          147.16,
+          147.5
+        ]
+      },
+      {
+        "text": " on",
+        "timestamp": [
+          147.5,
+          147.76
+        ]
+      },
+      {
+        "text": " January",
+        "timestamp": [
+          147.76,
+          148.14
+        ]
+      },
+      {
+        "text": " 20th.",
+        "timestamp": [
+          148.14,
+          148.8
+        ]
+      },
+      {
+        "text": " I'll",
+        "timestamp": [
+          148.8,
+          148.9
+        ]
+      },
+      {
+        "text": " have",
+        "timestamp": [
+          148.9,
+          149.02
+        ]
+      },
+      {
+        "text": " that",
+        "timestamp": [
+          149.02,
+          149.18
+        ]
+      },
+      {
+        "text": " war",
+        "timestamp": [
+          149.18,
+          149.32
+        ]
+      },
+      {
+        "text": " settled.",
+        "timestamp": [
+          149.32,
+          149.82
+        ]
+      },
+      {
+        "text": " People",
+        "timestamp": [
+          149.82,
+          150.5
+        ]
+      },
+      {
+        "text": " being",
+        "timestamp": [
+          150.5,
+          150.92
+        ]
+      },
+      {
+        "text": " killed",
+        "timestamp": [
+          150.92,
+          151.44
+        ]
+      },
+      {
+        "text": " so",
+        "timestamp": [
+          151.44,
+          152.04
+        ]
+      },
+      {
+        "text": " needlessly,",
+        "timestamp": [
+          152.04,
+          152.92
+        ]
+      },
+      {
+        "text": " so",
+        "timestamp": [
+          152.92,
+          153.08
+        ]
+      },
+      {
+        "text": " stupidly,",
+        "timestamp": [
+          153.08,
+          154.12
+        ]
+      },
+      {
+        "text": " and",
+        "timestamp": [
+          154.12,
+          154.72
+        ]
+      },
+      {
+        "text": " I",
+        "timestamp": [
+          154.72,
+          155.06
+        ]
+      },
+      {
+        "text": " will",
+        "timestamp": [
+          155.06,
+          155.24
+        ]
+      },
+      {
+        "text": " get",
+        "timestamp": [
+          155.24,
+          155.44
+        ]
+      },
+      {
+        "text": " it",
+        "timestamp": [
+          155.44,
+          155.56
+        ]
+      },
+      {
+        "text": " settled,",
+        "timestamp": [
+          155.56,
+          155.98
+        ]
+      },
+      {
+        "text": " and",
+        "timestamp": [
+          155.98,
+          156.1
+        ]
+      },
+      {
+        "text": " I'll",
+        "timestamp": [
+          156.1,
+          156.22
+        ]
+      },
+      {
+        "text": " get",
+        "timestamp": [
+          156.22,
+          156.42
+        ]
+      },
+      {
+        "text": " it",
+        "timestamp": [
+          156.42,
+          156.6
+        ]
+      },
+      {
+        "text": " settled",
+        "timestamp": [
+          156.6,
+          156.84
+        ]
+      },
+      {
+        "text": " fast",
+        "timestamp": [
+          156.84,
+          157.1
+        ]
+      },
+      {
+        "text": " before",
+        "timestamp": [
+          157.1,
+          157.44
+        ]
+      },
+      {
+        "text": " I",
+        "timestamp": [
+          157.44,
+          157.68
+        ]
+      },
+      {
+        "text": " take",
+        "timestamp": [
+          157.68,
+          157.86
+        ]
+      },
+      {
+        "text": " office.",
+        "timestamp": [
+          157.86,
+          158.72
+        ]
+      },
+      {
+        "text": " President",
+        "timestamp": [
+          158.72,
+          159.6
+        ]
+      },
+      {
+        "text": " Biden,",
+        "timestamp": [
+          159.6,
+          159.94
+        ]
+      },
+      {
+        "text": " you",
+        "timestamp": [
+          159.94,
+          160.06
+        ]
+      },
+      {
+        "text": " have",
+        "timestamp": [
+          160.06,
+          160.18
+        ]
+      },
+      {
+        "text": " a",
+        "timestamp": [
+          160.18,
+          160.22
+        ]
+      },
+      {
+        "text": " minute.",
+        "timestamp": [
+          160.22,
+          160.66
+        ]
+      }
+    ],
+    "text": " Never, just like Israel, would have never been invaded in a million years by Hamas. You know why? Because Iran was broke with me. I wouldn't let anybody do business with them. They ran out of money. They were broke. They had no money for Hamas. They had no money for anything. No money for terror. That's why you had no terror at all during my administration. This place, the whole world is blowing up under him. President Biden. I've never heard so much malarkey in my whole life. Look, the fact of the matter is that we're in a situation where, let's take the last point first. Iran attacked American troops, caused brain damage for a number of these troops, and he did nothing about it. Recently, when he was president, they attacked. He said they're just having headaches. That's all it is. a number of these troops, and he did nothing about it when he was president. They attacked. He said they're just having headaches. That's all it is. He didn't do a thing when the attack took place, number one. Number two, we got over 100,000 Americans and others out of Afghanistan during that airlift. Number three, we found ourselves in a situation where if you take a look at what Trump did in Ukraine, this guy told Trump, do whatever you want and do whatever you want. And that's exactly what Trump did to Putin, encourage him, do whatever you want. And he went in and listen to what he said when he went in. He was going to take Kiev in five days, remember, because it's part of the old Soviet Union. That's what he wanted to reestablish, Kiev. And he, in fact, didn't do it at all. He wasn't able to get it done. And they've lost thousands and thousands of troops, 500,000 troops. President Trump, let me come back to you for one minute. I just want to go back to my original question, which is, are Putin's terms acceptable to you, keeping the territory in Ukraine? No, they're not acceptable. But look, this is a war that never should have started. If we had a leader in this war, he led everybody along. He's given $200 billion now or more to Ukraine. He's given $200 billion. That's a lot of money. I don't think there's ever been anything like it. Every time that Zelensky comes to this country, he walks away with $60 billion. He's the greatest salesman ever. And I'm not knocking him. I'm not knocking anything. I'm only saying the money that we're spending on this war, and we shouldn't be spending, it should have never happened. I will have that war settled between Putin and Zelensky as president-elect before I take office on January 20th. I'll have that war settled. People being killed so needlessly, so stupidly, and I will get it settled, and I'll get it settled fast before I take office. President Biden, you have a minute."
+  }
+  

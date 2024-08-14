@@ -1,0 +1,86 @@
+rowid,word_count,duration,speaker,time_begin,time_end,text,start_abs_time
+1,11,3.9,SPEAKER_00,0:00:00.0,0:00:04.2," If Olivia Rodrigo tells you to get vaccinated, you get vaccinated.
+Here's",0.0
+2,11,4.4,SPEAKER_01,0:00:04.2,0:00:08.6," one that says, I got my first dose of the Fauci ouchie.",4.22
+3,4,1.6,SPEAKER_00,0:00:09.6,0:00:11.7," Hey, I'm Olivia Rodrigo.
+And",9.64
+4,2,1.1,SPEAKER_01,0:00:11.7,0:00:12.8, I'm Tony Fauci.,11.66
+5,17,3.5,SPEAKER_00,0:00:12.9,0:00:16.7," Today we're here in the White House, and we're going to read some tweets about the vaccine.
+All",12.92
+6,64,21.5,SPEAKER_01,0:00:16.7,0:00:41.1," right, let's see what we got here.
+I'm taking an immunology course, and I got an A on my last exam.
+My immediate thought was, wouldn't Dr.
+Fauci be proud of me? Absolutely.
+When you get vaccinated, your body makes an immune response that's gonna protect you against the virus.
+So maybe this person can go and talk about the immunology of getting vaccinated.
+Heck",16.66
+7,32,10.1,SPEAKER_00,0:00:41.1,0:00:52.2," yeah, proud of them.
+Somebody said, Olivia Rodrigo to the to the vaccine clinic.
+Very true.
+All of the funny puns, as long as you're getting vaccinated, that's great, whatever it takes.
+I",41.06
+8,30,11.5,SPEAKER_02,0:00:52.2,0:01:03.9," had a dream that I got the COVID -19 vaccine and met Dr.
+Fauci afterwards.
+I told him that I bought his bobblehead and he was super cool about it.
+I",52.16
+9,3,1.6,SPEAKER_00,0:01:03.9,0:01:05.5, saw your bobblehead today.,63.9
+10,3,0.6,SPEAKER_02,0:01:05.5,0:01:06.1, Did you like it?,65.46
+11,49,14.4,SPEAKER_00,0:01:06.2,0:01:21.0," Yeah it was amazing.
+It was great.
+Did anyone else spend their Friday afternoon driving to their second vaccine appointment and crying to Olivia Rodrigo or was that just me? Hey I love that.
+I'm so happy that I'm soundtracking your vaccine appointment.
+That's great.
+That makes me very happy.",66.18
+12,40,13.7,SPEAKER_01,0:01:21.0,0:01:34.9," PPL made fun of these Dr.
+Fauci prayer candles, but we got my dad one for his birthday in November.
+So he lit it every night and everyone in my immediate family was fully vaccinated.
+So maybe there's something there.
+I",80.96
+13,36,9.1,SPEAKER_00,0:01:34.9,0:01:44.3," need like a Fauci candle and the Fauci bobblehead right next to each other.
+Wear your mask and get your vaccines.
+I need to see Olivia Rodrigo live in concert in the first row.
+Get your vaccines.",94.9
+14,56,40.2,SPEAKER_01,0:01:44.3,0:02:16.0," I'm so excited to tour one of these days.
+And I'm just so excited to go to a concert, aren't you? It goes back to the late 1950s at the Paramount Theater in New York City, which was a Motown concert with The Temptations, The Four Tops.
+I'm sorry.
+Oh my God.
+I'm a really old guy.",104.32
+15,3,1.4,SPEAKER_00,0:02:16.1,0:02:19.0," That's incredible.
+Yep.
+Happy",136.08
+16,51,17.3,SPEAKER_01,0:02:19.0,0:02:29.5," Man Crush Monday to this hero.
+Thank you, Dr.
+Fauci, for all your hard work.
+We appreciate your intelligence, honors, bravery, compassion.
+We love you.
+Monday to this hero.
+Thank you, Dr.
+Fauci, for all your hard work.
+We appreciate your intelligence, honest, bravery, compassion.
+We love you.
+Well, that's very nice",138.98
+17,45,10.8,SPEAKER_00,0:02:29.5,0:02:41.5," to say that.
+Do you know what Man Crush Monday means? No idea.
+Man Crush Monday is just like on Mondays, people like post a picture with their boyfriends and they'll be like, oh, Man Crush Monday, this is why I love you.
+So it's a",149.54
+18,17,6.3,SPEAKER_02,0:02:41.5,0:02:47.7," big compliment.
+Well, whatever it takes.
+If Man Crush Monday makes you get vaccinated, go for it.
+Are",161.52
+19,33,10.0,SPEAKER_00,0:02:47.7,0:02:58.0," these chills from my second dose of the vaccine or from listening to Deja Vu by Olivia Rodrigo for the big numberth time today? Oh my gosh.
+I hope they're from Deja Vu.
+Well,",167.7
+20,67,20.8,SPEAKER_01,0:02:58.0,0:03:20.0," that person brings up a good point that I think we should let people know.
+When you get vaccinated, if you get particularly the two -dose vaccine, after the second dose, you can sometimes feel fatigued, maybe a little chilly.
+That's a good thing, because when your body has that reaction, that means your immune system is revving up and making a really good response against the virus.",178.0
+21,9,1.7,SPEAKER_00,0:03:20.1,0:03:21.8," Yeah, I had the same thing after my second shot.",200.08
+22,67,16.0,SPEAKER_01,0:03:21.8,0:03:38.6," You did? I just took a little nap and I was fine a couple hours right.
+Got home at 4 a .m.
+from seeing friends.
+Currently seeing Olivia Rodrigo brushing my hair in the bathroom mirror.
+Shout out to vaccines for real.
+The sooner all of us get vaccines, the sooner we can like hang out with our friends and sing songs and all of the fun things.",201.8
+23,2,1.0,SPEAKER_02,0:03:38.6,0:03:39.7," All right.
+We",218.64
+,24,6.7,SPEAKER_00,0:03:39.7,0:03:46.4," just finished reading some tweets about the vaccine.
+If you want to learn more about vaccines and where you can get vaccinated, visit vaccines .gov.",219.72

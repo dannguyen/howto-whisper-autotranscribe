@@ -20,11 +20,11 @@
 - https://github.com/Vaibhavs10/insanely-fast-whisper
 
 
-## End to end example
+## End to end examples
+
+### Example using repo data
 
 ```sh
-
-
 insanely-fast-whisper \
     --hf-token=$HUGGINGFACE_ACCESS_TOKEN \
     --model openai/whisper-large-v3 \
@@ -37,6 +37,32 @@ insanely-fast-whisper \
 ./prettify_ifw_output.py \
     -i data/transcripts/fauci-rodrigo-read-tweets.raw.json \
     -o data/transcripts/fauci-rodrigo-read-tweets.pretty.csv
+```
+
+### Example from scratch (i.e fetch the video yourself)
+
+```sh
+mkdir -p mytest
+cd mytest
+yt-dlp -f mp4 \
+    --write-subs --write-auto-subs \
+    -o mytest.mp4 \
+    https://www.youtube.com/watch?v=o8sHSEtH3L4
+
+insanely-fast-whisper \
+    --hf-token=$HUGGINGFACE_ACCESS_TOKEN \
+    --model openai/whisper-large-v3 \
+    --batch-size 4 \
+    --num-speakers 3 \
+    --timestamp word \
+    --file-name mytest.mp4 \
+    --transcript-path mytest.raw.json
+
+# have to use the prettify script in this repo
+./prettify_ifw_output.py \
+    -i mytest.raw.json \
+    -o mytest.prettify.csv
+
 ```
 
 
