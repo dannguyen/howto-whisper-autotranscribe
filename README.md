@@ -1,5 +1,24 @@
 # How to use Whisper AI for auto transcription in August 2024
 
+Just some info I've gathered, as of August 2024, on how to utilize OpenAI's Whisper auto-speech-recognition model, plus subsequent work and improvements, to do auto transcription (mostly locally) on your own machine, with additional features such as speaker diatrization (i.e. speaker differtiation) and word level segments and timestamps.
+
+(work in progress: so far have gotten in to work for Windows 11 on WSL2)
+
+## Software pre-reqs
+
+- [insanely-fast-whisper](https://github.com/Vaibhavs10/insanely-fast-whisper): a library that advances OpenAI's Whisper work, including augmenting the CLI and supporting the use of speaker diarization and word segmentation
+- ffmpeg
+- yt-dlp (optional: for acquiring video content)
+- creating an account on HuggingFace and agreeing to the terms of use for [pyannote/speaker-diarization-3.1](https://huggingface.co/pyannote/speaker-diarization-3.1)
+
+
+This repo contains:
+- [data/videos](data/videos) - some public domain videos
+- [data/transcripts](data/transcripts) - the autotranscription results of data/videos
+- [prettify_ifw_output.py](prettify_ifw_output.py) - a script to convert insanely-fast-whisper's JSON output into a CSV
+
+
+
 
 ## Todos
 
@@ -12,6 +31,8 @@
 - diatrization kind of fails with fauci-rodrigo example; doesn't catch off-camera producer at 0:02:29.5
 - polish prettify_ifw_output.py
     - wrangling is pretty much done
+
+- figure out how to use whisperX 3.1.5?
 
 ## References
 
